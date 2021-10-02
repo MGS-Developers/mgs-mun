@@ -3,10 +3,10 @@
 .fluidContainer {
   padding: 30px 15%;
   @media only screen and (max-width: 768px) {
-    padding: 30px 15px;
+    padding: 10px 15px;
   }
 
-  h1, h2, h3, h4, h5, h6, p {
+  h1, h2, h3, h4, h5, h6, p, li {
     @include poppins;
   }
 
@@ -25,5 +25,6 @@
 
   img {
     max-height: 300px;
+    max-width: 100%;
   }
 }

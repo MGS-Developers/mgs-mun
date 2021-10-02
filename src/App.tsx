@@ -53,6 +53,21 @@ const routes: NavbarRouteItem[] = [
                 source: 'committees/security-council',
             },
             {
+                label: 'SC Issue 1',
+                href: '/committees/security/issue1',
+                component: MarkdownPage,
+                source: 'committees/security-council-1',
+                hide: true,
+            },
+            {
+                label: 'SC Issue 2',
+                href: '/committees/security/issue2',
+                component: MarkdownPage,
+                source: 'committees/security-council-2',
+                hide: true,
+            },
+
+            {
                 label: 'Human Rights Council',
                 href: '/committees/hr-council',
                 component: MarkdownPage,

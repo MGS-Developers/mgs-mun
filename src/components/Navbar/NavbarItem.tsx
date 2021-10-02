@@ -6,21 +6,25 @@ import { RouteProps } from '../../App'
 interface Sub {
     label: string;
     href: string;
+    hide?: boolean;
 }
 
 export interface NavbarItemProps {
     label: string;
     href?: string;
     subs?: Sub[];
+    hide?: boolean;
 }
 
 interface SubRoute extends RouteProps {
     label: string;
     href: string;
+    hide?: boolean;
 }
 export interface NavbarRouteItem extends RouteProps {
     label: string;
     href?: string;
+    hide?: boolean;
     subs?: SubRoute[]
 }
 

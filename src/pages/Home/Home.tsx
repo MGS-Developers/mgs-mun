@@ -4,12 +4,6 @@ import Image from '../../bits/Image/Image'
 
 export default function Home() {
     return <div className={styles.hero}>
-        <img
-            src="https://i.ibb.co/C774PjX/United-Nations-General-Assembly-Hall-3.jpg"
-            className={styles.heroImage}
-            alt="The United Nations"
-        />
-
         <div className={styles.contents}>
             <Row verticalCenter>
                 <Column width={7}>
