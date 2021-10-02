@@ -1,17 +1,27 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
-import reportWebVitals from './reportWebVitals';
+import './styles/global.scss';
+import {initializeApp} from 'firebase/app';
+import {initializeAppCheck, ReCaptchaV3Provider} from 'firebase/app-check';
+
+const app = initializeApp({
+    apiKey: "AIzaSyBG8NafQofyrAmVbbvZioAkKqmDWQ_gxSA",
+    authDomain: "mgs-mun.firebaseapp.com",
+    projectId: "mgs-mun",
+    storageBucket: "mgs-mun.appspot.com",
+    messagingSenderId: "980138263525",
+    appId: "1:980138263525:web:a8c0ac874784232563250c",
+});
+
+initializeAppCheck(app, {
+    provider: new ReCaptchaV3Provider('6LdAfqMcAAAAAPoYL0N7fLBbNHGD-CmVuFj86u3v'),
+    isTokenAutoRefreshEnabled: true,
+});
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
+    <React.StrictMode>
+        <App />
+    </React.StrictMode>,
+    document.getElementById('root')
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();

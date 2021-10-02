@@ -1,0 +1,6 @@
+$nav-height: 100px;
+
+@mixin poppins($weight: 400) {
+  font-family: "Poppins", "Gill Sans", sans-serif;
+  font-weight: $weight;
+}

@@ -1,0 +1,51 @@
+@import "../../styles/importables";
+
+.hero {
+  height: calc(100vh - #{$nav-height});
+  overflow: hidden;
+  position: relative;
+  z-index: -1;
+
+  .heroImage {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    filter: blur(3px) brightness(0.6);
+    transform: scale(1.1);
+    top: 0; left: 0;
+
+    z-index: -1;
+  }
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 15%;
+  @media only screen and (max-width: 768px) {
+    padding: 20px 30px;
+  }
+
+  .contents {
+    h1, p {
+      @include poppins;
+    }
+
+    h1 {
+      color: white;
+    }
+
+    p {
+      color: #d4d4d4;
+    }
+
+    a {
+      color: #b0b0e5;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
