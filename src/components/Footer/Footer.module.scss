@@ -1,0 +1,19 @@
+@import "../../styles/importables";
+
+.footer {
+  width: 100%;
+  height: $footer-height;
+  background: #b1cbf1;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  p {
+    margin: 0;
+    font-size: 0.8rem;
+    @include poppins;
+    color: rgba(0, 0, 0, 0.5);
+  }
+}

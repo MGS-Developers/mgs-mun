@@ -1,0 +1,11 @@
+@import "importables";
+.page {
+  background-color: white;
+  min-height: calc(100vh - #{$nav-height} - #{$footer-height});
+
+  h1 {
+    font-size: 2rem;
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+}

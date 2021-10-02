@@ -1,6 +1,15 @@
 $nav-height: 100px;
+$footer-height: 60px;
+$footer-color: #96baef;
 
 @mixin poppins($weight: 400) {
   font-family: "Poppins", "Gill Sans", sans-serif;
   font-weight: $weight;
+}
+
+@mixin fluid-container() {
+  padding: 30px 15%;
+  @media only screen and (max-width: 768px) {
+    padding: 10px 15px;
+  }
 }

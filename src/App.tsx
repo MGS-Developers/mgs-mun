@@ -2,16 +2,21 @@ import React, { FunctionComponent, lazy, Suspense, useMemo } from 'react'
 import { BrowserRouter, Route, Switch } from 'react-router-dom'
 import Navbar from './components/Navbar/Navbar'
 import { NavbarRouteItem } from './components/Navbar/NavbarItem'
+import Footer from './components/Footer/Footer'
+import styles from './styles/App.module.scss';
 
 const Home = lazy(() => import('./pages/Home/Home'));
 const Gallery = lazy(() => import('./pages/Gallery/Gallery'));
 const MarkdownPage = lazy(() => import('./pages/Markdown/MarkdownPage'));
+const Directions = lazy(() => import('./pages/Directions/Directions'));
 
 export interface RouteProps {
     component?: FunctionComponent<{
         source?: string
+        watermark?: boolean
     }>;
     source?: string;
+    watermark?: boolean;
 }
 
 const routes: NavbarRouteItem[] = [
@@ -58,6 +63,7 @@ const routes: NavbarRouteItem[] = [
                 component: MarkdownPage,
                 source: 'committees/security-council-1',
                 hide: true,
+                watermark: true,
             },
             {
                 label: 'SC Issue 2',
@@ -65,6 +71,7 @@ const routes: NavbarRouteItem[] = [
                 component: MarkdownPage,
                 source: 'committees/security-council-2',
                 hide: true,
+                watermark: true,
             },
 
             {
@@ -133,6 +140,7 @@ const routes: NavbarRouteItem[] = [
             {
                 label: 'How to find us',
                 href: '/info/directions',
+                component: Directions,
             },
             {
                 label: 'Advisers',
@@ -171,22 +179,29 @@ function App() {
         <BrowserRouter>
             <Navbar items={routes} />
 
-            <Suspense fallback={<></>}>
-                <Switch>
-                    { flattenedRoutes.map(route => {
-                        const Component = route.component;
-                        if (!Component) return <React.Fragment key={route.label}/>;
+            <section className={styles.page}>
+                <Suspense fallback={<></>}>
+                    <Switch>
+                        { flattenedRoutes.map(route => {
+                            const Component = route.component;
+                            if (!Component) return <React.Fragment key={route.label}/>;
 
-                        return <Route
-                            key={route.label}
-                            path={route.href}
-                            exact
-                        >
-                            <Component source={route.source} />
-                        </Route>
-                    })}
-                </Switch>
-            </Suspense>
+                            return <Route
+                                key={route.label}
+                                path={route.href}
+                                exact
+                            >
+                                <Component
+                                    source={route.source}
+                                    watermark={route.watermark}
+                                />
+                            </Route>
+                        })}
+                    </Switch>
+                </Suspense>
+            </section>
+
+            <Footer/>
         </BrowserRouter>
     );
 }

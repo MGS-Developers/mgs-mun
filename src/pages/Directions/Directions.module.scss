@@ -1,0 +1,18 @@
+@import "../../styles/importables";
+
+.container {
+  @include fluid-container;
+
+  h1, p {
+    @include poppins;
+  }
+
+  h1 {
+    margin-top: 0;
+  }
+
+  iframe {
+    width: 100%;
+    border: none;
+  }
+}

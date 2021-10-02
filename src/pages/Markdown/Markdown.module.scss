@@ -1,10 +1,7 @@
 @import "../../styles/importables";
 
 .fluidContainer {
-  padding: 30px 15%;
-  @media only screen and (max-width: 768px) {
-    padding: 10px 15px;
-  }
+  @include fluid-container;
 
   h1, h2, h3, h4, h5, h6, p, li {
     @include poppins;
@@ -26,5 +23,11 @@
   img {
     max-height: 300px;
     max-width: 100%;
+  }
+
+  &.watermark {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 50vh;
   }
 }
