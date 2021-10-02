@@ -1,15 +1,29 @@
-import { NavLink } from 'react-router-dom';
+import { NavLink } from 'react-router-dom'
 import styles from './Navbar.module.scss';
-import { useCallback, useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
+import { RouteProps } from '../../App'
+
+interface Sub {
+    label: string;
+    href: string;
+}
 
 export interface NavbarItemProps {
     label: string;
     href?: string;
-    subs?: {
-        label: string;
-        href: string;
-    }[];
+    subs?: Sub[];
 }
+
+interface SubRoute extends RouteProps {
+    label: string;
+    href: string;
+}
+export interface NavbarRouteItem extends RouteProps {
+    label: string;
+    href?: string;
+    subs?: SubRoute[]
+}
+
 export default function NavbarItem(
     {label, href, subs}: NavbarItemProps
 ) {

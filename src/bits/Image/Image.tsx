@@ -23,7 +23,6 @@ export default function Image(
             const smallWidth = Math.floor(32 * ratio), smallHeight = 32;
 
             const decodedHashData = decode(hash, smallWidth, smallHeight);
-            console.time("t")
             const canvas = document.createElement("canvas");
 
             canvas.width = smallWidth;
@@ -37,7 +36,6 @@ export default function Image(
             ctx.putImageData(imageData, 0, 0);
             setImageUrl(canvas.toDataURL());
             canvas.remove();
-            console.timeEnd("t")
 
             if (!src) return;
             const response = await fetch(src).then(e => e.arrayBuffer());

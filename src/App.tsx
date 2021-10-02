@@ -1,25 +1,47 @@
-import React, { FunctionComponent, lazy, Suspense } from 'react'
+import React, { FunctionComponent, lazy, Suspense, useMemo } from 'react'
 import { BrowserRouter, Route, Switch } from 'react-router-dom'
 import Navbar from './components/Navbar/Navbar'
-import { NavbarItemProps } from './components/Navbar/NavbarItem'
+import { NavbarRouteItem } from './components/Navbar/NavbarItem'
 
 const Home = lazy(() => import('./pages/Home/Home'));
 const Gallery = lazy(() => import('./pages/Gallery/Gallery'));
+const MarkdownPage = lazy(() => import('./pages/Markdown/MarkdownPage'));
 
-interface RouteProps extends NavbarItemProps {
-    component?: FunctionComponent;
+export interface RouteProps {
+    component?: FunctionComponent<{
+        source?: string
+    }>;
+    source?: string;
 }
 
-const routes: RouteProps[] = [
+const routes: NavbarRouteItem[] = [
     {
         label: 'Home',
         href: '/',
         component: Home,
     },
     {
-        label: 'Gallery',
-        href: '/gallery',
-        component: Gallery,
+        label: 'People',
+        subs: [
+            {
+                label: 'Core Committee',
+                href: '/people/committee',
+                component: MarkdownPage,
+                source: 'people/core-committee',
+            },
+            {
+                label: 'Chairs',
+                href: '/people/chairs',
+                component: MarkdownPage,
+                source: 'people/chairs',
+            },
+            {
+                label: 'Tech',
+                href: '/people/tech',
+                component: MarkdownPage,
+                source: 'people/tech',
+            },
+        ]
     },
     {
         label: 'Committees',
@@ -27,52 +49,127 @@ const routes: RouteProps[] = [
             {
                 label: 'Security Council',
                 href: '/committees/security',
+                component: MarkdownPage,
+                source: 'committees/security-council',
             },
             {
-                label: 'Historical Council',
-                href: '/committees/historical',
+                label: 'Human Rights Council',
+                href: '/committees/hr-council',
+                component: MarkdownPage,
+                source: 'committees/hr-council',
             },
             {
-                label: 'Political + Disarmament',
+                label: 'Human Rights Committee',
+                href: '/committees/hr-committee',
+                component: MarkdownPage,
+                source: 'committees/hr-committee',
+            },
+            {
+                label: 'Speccom on Technology',
+                href: '/committees/tech-speccom',
+                component: MarkdownPage,
+                source: 'committees/tech-speccom',
+            },
+            {
+                label: 'Political',
                 href: '/committees/political',
+                component: MarkdownPage,
+                source: 'committees/political',
             },
             {
-                label: 'Human Rights',
-                href: '/committees/human-rights',
+                label: 'Ecofin',
+                href: '/committees/ecofin',
+                component: MarkdownPage,
+                source: 'committees/ecofin',
             },
             {
-                label: 'Health',
+                label: 'DISEC',
+                href: '/committees/disec',
+                component: MarkdownPage,
+                source: 'committees/disec',
+            },
+            {
+                label: 'Health & Social',
                 href: '/committees/health',
+                component: MarkdownPage,
+                source: 'committees/health'
             },
-            {
-                label: 'Youth',
-                href: '/committees/youth',
-            },
-            {
-                label: 'Science, Technology, Media',
-                href: '/committees/stm',
-            }
         ],
     },
     {
         label: 'Crisis',
         href: '/crisis',
-    }
+    },
+    {
+        label: 'Information',
+        subs: [
+            {
+                label: 'Schedule',
+                href: '/info/schedule',
+            },
+            {
+                label: 'Timeline',
+                href: '/info/timeline',
+            },
+            {
+                label: 'Schools attending',
+                href: '/info/schools',
+            },
+            {
+                label: 'How to find us',
+                href: '/info/directions',
+            },
+            {
+                label: 'Advisers',
+                href: '/info/advisers',
+            },
+        ]
+    },
+    {
+        label: 'Gallery',
+        href: '/gallery',
+        component: Gallery,
+    },
 ];
 
 function App() {
+    const flattenedRoutes = useMemo(() => {
+        const l: NavbarRouteItem[] = [];
+        for (const route of routes) {
+            if (!!route.href && !!route.component) {
+                l.push(route);
+            }
+
+            if (route.subs) {
+                for (const sub of route.subs) {
+                    if (sub.component) {
+                        l.push(sub);
+                    }
+                }
+            }
+        }
+
+        return l;
+    }, []);
+
     return (
         <BrowserRouter>
             <Navbar items={routes} />
 
             <Suspense fallback={<></>}>
                 <Switch>
-                    { routes.filter(e => !!e.href && !!e.component).map(route => <Route
-                        key={route.label}
-                        path={route.href}
-                        component={route.component}
-                        exact
-                    />) }
+                    { flattenedRoutes.map(route => {
+                        const Component = route.component;
+                        if (!Component) return <React.Fragment key={route.label}/>;
+
+                        return <Route
+                            key={route.label}
+                            path={route.href}
+                            exact
+                        >
+                            <Component source={route.source} />
+                        </Route>
+                    })}
                 </Switch>
             </Suspense>
         </BrowserRouter>

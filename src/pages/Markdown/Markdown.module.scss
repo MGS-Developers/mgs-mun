@@ -1,0 +1,29 @@
+@import "../../styles/importables";
+
+.fluidContainer {
+  padding: 30px 15%;
+  @media only screen and (max-width: 768px) {
+    padding: 30px 15px;
+  }
+
+  h1, h2, h3, h4, h5, h6, p {
+    @include poppins;
+  }
+
+  p {
+    color: #2a2a2a;
+  }
+
+  a {
+    color: #1b4787;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  img {
+    max-height: 300px;
+  }
+}
