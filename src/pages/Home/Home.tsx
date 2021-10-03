@@ -8,16 +8,19 @@ export default function Home() {
             <Row verticalCenter>
                 <Column width={7}>
                     <h1>
-                        Welcome to MGSMUN 21!
+                        Welcome to MGSMUN 2021!
                     </h1>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu nibh dui. Nullam tincidunt nunc non ultrices bibendum. Sed urna tortor, vulputate at venenatis a, rutrum vel dolor. Integer sodales nisi at auctor facilisis. Nulla facilisi. Cras non lectus eros.
+                        We look forward to welcoming you all to our conference on the <strong>11th of Dec</strong>.
                     </p>
                     <p>
-                        Phasellus fringilla, ante a gravida dapibus, tortor erat euismod nisl,&nbsp;
-                        <a href="#">
-                            john@example.com
+                        If you have any queries, please email&nbsp;
+                        <a href="mailto:mgsmun@outlook.com">
+                            mgsmun@outlook.com
                         </a>.
+                    </p>
+                    <p>
+                        The Secretary General for MGSMUN 2021 will be Oli Sandall and our Deputy Secretary Generals Euan Aspin and Zak Foster. On behalf of everyone at MGS, we hope that you enjoy our conference.
                     </p>
                 </Column>
                 <Column>
