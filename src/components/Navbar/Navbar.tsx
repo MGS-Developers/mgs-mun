@@ -1,7 +1,7 @@
 import styles from './Navbar.module.scss';
 import logo from '../../assets/MGSMUN logo white.png';
 import NavbarItem, { NavbarItemProps } from './NavbarItem'
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import menuIcon from '../../assets/menu_icon.svg'
 import { Link } from 'react-router-dom';
 
@@ -23,6 +23,18 @@ export default function Navbar(
         });
         return parentFiltered;
     }, [items]);
+
+    useEffect(() => {
+        if (showMobileMenu) {
+            document.body.classList.add("locked")
+        } else {
+            document.body.classList.remove("locked")
+        }
+
+        return () => {
+            document.body.classList.remove("locked")
+        }
+    }, [showMobileMenu]);
 
     return <nav className={styles.nav}>
         <div className={styles.logo}>
@@ -62,7 +74,7 @@ export default function Navbar(
                 </Link>}
                 {!item.href && item.label}
 
-                {item.subs?.map(sub => <p
+                {item.subs?.map(sub => <span
                     className={`${styles.mobileLink} ${styles.mobileLinkIndented}`}
                     key={sub.label}
                 >
@@ -72,7 +84,7 @@ export default function Navbar(
                     >
                         {sub.label}
                     </Link>
-                </p>)}
+                </span>)}
             </p>)}
         </div>}
 

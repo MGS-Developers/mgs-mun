@@ -11,7 +11,7 @@ export default function Footer() {
     if (!show) return <></>
     return <footer className={styles.footer}>
         <p>
-            Website by Pal Kerecsenyi
+            Website by Pal Kerecsenyi (kerecsenyip-y15@mgs.org)
         </p>
         <p>
             &copy; Manchester Grammar School 2021

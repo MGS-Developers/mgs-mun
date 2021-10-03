@@ -11,9 +11,12 @@
     grid-template-columns: repeat(auto-fill, minmax(32%, 1fr));
   }
   @media only screen and (max-width: 768px) {
-    grid-template-columns: repeat(auto-fill, minmax(48%, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(45%, 1fr));
   }
   @media only screen and (max-width: 450px) {
-    grid-template-columns: auto;
+    display: block;
+    img {
+      margin-bottom: 10px;
+    }
   }
 }

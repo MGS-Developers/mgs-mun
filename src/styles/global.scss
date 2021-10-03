@@ -5,7 +5,10 @@ body, html {
 }
 
 body {
-  background-color: #96baef;
+  background-color: #b1cbf1;
+  &.locked {
+    overflow: hidden;
+  }
 }
 
 *, ::after, ::before {
