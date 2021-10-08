@@ -45,16 +45,10 @@ export const routes: NavbarRouteItem[] = [
                 source: 'people/core-committee',
             },
             {
-                label: 'Chairs',
+                label: 'Head Chairs',
                 href: '/people/chairs',
                 component: MarkdownPage,
                 source: 'people/chairs',
-            },
-            {
-                label: 'Tech',
-                href: '/people/tech',
-                component: MarkdownPage,
-                source: 'people/tech',
             },
         ]
     },

@@ -4,6 +4,7 @@ import ReactMarkdown from 'react-markdown';
 import watermarkImage from '../../assets/MGSMUN logo watermark.png';
 import { Column, Row } from '../../bits/Row/Row'
 import CommitteesSidebar from '../../bits/CommitteesSidebar/CommitteesSidebar'
+import rehypeRaw from 'rehype-raw'
 
 export interface CommitteeConfig {
     name: string;
@@ -47,7 +48,7 @@ export default function MarkdownPage(
 
     const renderedMarkdown = useMemo(() => {
         if (markdown) {
-            return <ReactMarkdown>
+            return <ReactMarkdown rehypePlugins={[rehypeRaw]}>
                 {markdown}
             </ReactMarkdown>
         } else {
