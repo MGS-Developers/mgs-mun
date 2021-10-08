@@ -72,6 +72,7 @@
       .subs {
         position: absolute;
         margin-right: 10px;
+        pointer-events: none;
 
         .subLink {
           padding: 10px 15px;
@@ -103,9 +104,13 @@
           transition: opacity 200ms ease-in-out, transform 200ms ease-in-out;
         }
 
-        &.subsActive .subLink {
-          visibility: visible;
-          opacity: 1;
+        &.subsActive {
+          pointer-events: auto;
+
+          .subLink {
+            visibility: visible;
+            opacity: 1;
+          }
         }
       }
     }

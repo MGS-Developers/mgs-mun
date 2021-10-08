@@ -1,5 +1,7 @@
 # Schools attending MGSMUN 21
 
+- Altrincham Grammar School for Girls
+- Cheadle Hulme School
 - Manchester Grammar School
-- ABC School
-- XYZ School
+- Stockport Grammar School
+- Withington Girls' School

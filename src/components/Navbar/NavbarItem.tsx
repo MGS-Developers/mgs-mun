@@ -1,7 +1,7 @@
 import { NavLink } from 'react-router-dom'
 import styles from './Navbar.module.scss';
 import { useEffect, useState } from 'react'
-import { RouteProps } from '../../App'
+import { RouteProps } from '../../data/routes'
 
 interface Sub {
     label: string;

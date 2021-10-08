@@ -2,12 +2,13 @@ import styles from './Row.module.scss';
 import { ReactNode } from 'react'
 
 export function Row(
-    {children, verticalCenter}: {
+    {children, verticalCenter, reverseMobile}: {
         children: ReactNode;
         verticalCenter?: boolean;
+        reverseMobile?: boolean;
     }
 ) {
-    return <div className={`${styles.row} ${verticalCenter ? styles.rowVC : ''}`}>
+    return <div className={`${styles.row} ${verticalCenter ? styles.rowVC : ''} ${reverseMobile ? styles.rowRM : ''}`}>
         {children}
     </div>
 }
