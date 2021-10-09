@@ -1,6 +1,7 @@
 import styles from './Home.module.scss';
 import { Column, Row } from '../../bits/Row/Row'
 import Image from '../../bits/Image/Image'
+import Countdown from '../../bits/Countdown/Countdown'
 
 export default function Home() {
     return <div className={styles.hero}>
@@ -20,8 +21,10 @@ export default function Home() {
                         </a>.
                     </p>
                     <p>
-                        The Secretary General for MGSMUN 2021 will be Oli Sandall and our Deputy Secretary Generals Euan Aspin and Zak Foster. On behalf of everyone at MGS, we hope that you enjoy our conference.
+                        The Secretary-General for MGSMUN 2021 is Oliver Sandall and our Deputy Secretary-Generals are Euan Aspin and Zach Foster. On behalf of everyone at MGS, we hope that you enjoy our conference.
                     </p>
+
+                    <Countdown />
                 </Column>
                 <Column>
                     <Image

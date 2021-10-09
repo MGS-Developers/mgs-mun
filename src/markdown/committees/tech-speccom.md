@@ -11,6 +11,6 @@ I strongly encourage you to do some basic research on the issues and your countr
 
 [The Issue of Closing the Technology Gap](/committees/tech-speccom/issue1)
 
-[The Issue of Cyrptocurrencies](/committees/tech-speccom/issue2)
+[The Issue of Cryptocurrencies](/committees/tech-speccom/issue2)
 
-All resolutions must be emailed to aspine-y15@mgs.org before 23.59 on Friday 10th of December. Please put your country and issue within the subject line.
+> All resolutions must be emailed to aspine-y15@mgs.org before 23.59 on Friday 10th of December. Please put your country and issue within the subject line.

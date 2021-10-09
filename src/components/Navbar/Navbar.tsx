@@ -37,7 +37,10 @@ export default function Navbar(
     }, [showMobileMenu]);
 
     return <nav className={styles.nav}>
-        <div className={styles.logo}>
+        <Link
+            className={styles.logo}
+            to='/'
+        >
             <img
                 src={logo}
                 alt="MGSMUN logo"
@@ -45,7 +48,7 @@ export default function Navbar(
             <h1 className={styles.title}>
                 MGSMUN 21
             </h1>
-        </div>
+        </Link>
 
         <button
             className={styles.mobileButton}

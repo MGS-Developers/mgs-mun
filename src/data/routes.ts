@@ -17,6 +17,7 @@ const Home = lazy(() => import('../pages/Home/Home'));
 const Gallery = lazy(() => import('../pages/Gallery/Gallery'));
 const MarkdownPage = lazy(() => import('../pages/Markdown/MarkdownPage'));
 const Directions = lazy(() => import('../pages/Directions/Directions'));
+const CommitteeList = lazy(() => import('../pages/CommitteeList/CommitteeList'));
 
 export interface RouteProps {
     component?: FunctionComponent<{
@@ -54,6 +55,8 @@ export const routes: NavbarRouteItem[] = [
     },
     {
         label: 'Committees',
+        href: '/committees',
+        component: CommitteeList,
         subs: [
             {
                 label: 'Security Council',

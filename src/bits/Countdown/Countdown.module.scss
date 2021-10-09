@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+
+  padding: 15px 10%;
+  @media only screen and (max-width: 768px) {
+    padding: 15px 5%;
+  }
+
+  background-color: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(20px);
+  border-radius: 20px;
+
+  .value {
+    text-align: center;
+
+    .count, .descriptor {
+      margin: 0;
+    }
+    .count {
+      font-size: 1.5rem;
+      line-height: 1.5rem;
+      margin-bottom: 5px;
+    }
+    .descriptor {
+      font-size: 0.9rem;
+      line-height: 0.9rem;
+      color: rgba(255, 255, 255, 0.5);
+    }
+  }
+}

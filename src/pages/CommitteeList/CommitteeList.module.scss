@@ -1,0 +1,51 @@
+@use "sass:math";
+@import "../../styles/importables";
+
+.container {
+  @include fluid-container;
+
+  .title {
+    @include poppins;
+    margin-bottom: 10px;
+  }
+}
+
+$card-breakpoints: (
+        950px: 3,
+        600px: 2,
+        450px: 1,
+        400px: 1,
+);
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+
+  .card {
+    width: calc(25% - 10px);
+    @each $screenWidth, $cardsPerRow in $card-breakpoints {
+      @media only screen and (max-width: #{$screenWidth}) {
+        width: calc(#{math.div(100%, $cardsPerRow)} - 10px);
+      }
+    }
+
+    a {
+      text-decoration: none;
+      color: unset;
+    }
+
+    padding: 15px;
+    border-radius: 20px;
+    .cardImage {
+      width: 100%;
+      border-radius: 12px;
+    }
+
+    .cardTitle {
+      @include poppins;
+      line-height: 1.5rem;
+      margin: 15px 0 0;
+    }
+  }
+}

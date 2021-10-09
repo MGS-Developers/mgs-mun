@@ -65,6 +65,8 @@ export default function NavbarItem(
                     to={href}
                     className={styles.link}
                     activeClassName={styles.linkActive}
+                    onMouseOver={show}
+                    onMouseLeave={parentLeave}
                 >
                     {label}
                 </NavLink>
