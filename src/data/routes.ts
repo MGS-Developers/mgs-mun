@@ -307,10 +307,6 @@ export const routes: NavbarRouteItem[] = [
                 href: '/info/directions',
                 component: Directions,
             },
-            {
-                label: 'Advisers',
-                href: '/info/advisers',
-            },
         ]
     },
     {

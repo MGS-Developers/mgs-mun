@@ -139,6 +139,7 @@
     height: 100vh;
     background-color: rgba(6, 31, 69, 0.8);
     backdrop-filter: blur(10px);
+    z-index: 1;
 
     overflow-y: auto;
 
@@ -169,7 +170,7 @@
         margin-left: 20px;
         margin-bottom: 5px;
 
-        &:first-child {
+        &:first-of-type {
           margin-top: 10px;
         }
       }

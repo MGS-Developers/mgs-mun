@@ -28,6 +28,16 @@
     max-width: 100%;
   }
 
+  blockquote {
+    margin: 0;
+    padding: 0 1em;
+    border-left: .25em solid lightgray;
+
+    p {
+      color: gray;
+    }
+  }
+
   &.watermark {
     background-position: center center;
     background-repeat: no-repeat;
