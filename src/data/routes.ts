@@ -282,6 +282,29 @@ export const routes: NavbarRouteItem[] = [
         source: 'crisis',
     },
     {
+        label: 'Delegates',
+        subs: [
+            {
+                label: 'Dress code',
+                href: '/delegates/dress-code',
+                component: MarkdownPage,
+                source: 'delegates/dress',
+            },
+            {
+                label: 'Note paper',
+                href: '/delegates/paper',
+                component: MarkdownPage,
+                source: 'delegates/paper',
+            },
+            {
+                label: 'Awards',
+                href: '/delegates/awards',
+                component: MarkdownPage,
+                source: 'delegates/awards',
+            },
+        ]
+    },
+    {
         label: 'Information',
         subs: [
             {
@@ -308,6 +331,12 @@ export const routes: NavbarRouteItem[] = [
                 component: Directions,
             },
         ]
+    },
+    {
+        label: 'Charity',
+        href: '/charity',
+        component: MarkdownPage,
+        source: 'charity'
     },
     {
         label: 'Gallery',

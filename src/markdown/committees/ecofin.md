@@ -1,4 +1,4 @@
-This year at MGSMUN we are excited to hold an Economics and Finance Committee. Issues of an economic nature are perpetually significant, dictating the quality of life of many globally. As a result we hope that these issues will prove to be topics of great interest to all.
+This year at MGSMUN we are excited to hold an EcoFin Committee. Issues of an economic nature are perpetually significant, dictating the quality of life of many globally. As a result we hope that these issues will prove to be topics of great interest to all.
 
 The two issues that will be debated are quite different in nature, yet solutions to both have the potential to ameliorate the living conditions of millions globally. The issue of Economic Recovery Post-COVID, is evidently relevant to our current world; solutions that can minimise the economic contraction and hardship experienced as a result of a pandemic are currently being sought by all nations. The multifaceted nature of this issue should provide a broad scope for research and proposed policies given the pandemic’s impact on employment, economic growth and inequality among others.
 

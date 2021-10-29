@@ -4,7 +4,7 @@ As the line between our ‘real lives’ and our ‘digital lives’ becomes inc
 
 The second issue being debated is that of Anti-Discrimination Education. We have all – or at least, should have all – been taught that discrimination and racism are wrong. Yet, as our world changes and as consensus over certain issues (often rightfully) changes, how do we teach the next generation to remain, as we all should be, respectful and tolerant? Anti-discrimination or anti-racism education is certainly one approach.
 
-I am sure that each member state in our council will have their own view on the above matters and I look forward to a day of fun (and respectful!) debate. —  Oli :)
+I am sure that each member state in our council will have their own view on the above matters, and I look forward to a day of fun (and respectful!) debate. — Oli :)
 
 ---
 ## Briefing papers

@@ -4,24 +4,33 @@ Please note that this schedule is subject to change.
 
 - **8:30–9:00** Registration
 - **9:10–9:40** Opening assembly
-- **9:50–10:40** Issue 1
-- **10:40–11:00** Break
 
-## Security Council, Special Committee, Political, DISEC, EnviroSci
-- **11:00–12:00** Issue 1 continued
+## Human Rights Council and Committee, Health Committee
+- **9:50–12:00** Committees in Session
 - **12:00–12:30** Lunch
-- **12:30–14:10** Issue 2 (including policy statements/lobbying)
-- **14:10–14:20** Announce crisis
+- **12:30–14:00** Committees in Session
+- **14:00–14:05** Announce Crisis
+- **14:05–14:25** Break
+- **14:25–15:30** Crisis Prep in Committee
+- **15:40–16:50** General Assembly
 
-## Human Rights Council/Committee, Health, EcoFin
-- **11:00–12:00** Issue 1 continued
-- **12:00–12:30** Issue 2 (including policy statements/lobbying)
-- **12:30–13:00** Lunch
-- **13:00–14:10** Issue 2
-- **14:10–14:20** Announce crisis
+## Special Committee on Technology, DISEC, EnviroSci Committee
+- **9:50–2:20** Committees in Session
+- **12:15–12:45** Lunch
+- **12:50–14:00** Committees in Session
+- **14:00–14:05** Announce Crisis
+- **14:15–14:25** Break
+- **14:25–15:30** Crisis Prep in Commitee
+- **15:40–16:50** Forum on Technology
 
-## All committees
-- **14:20–14:40** Break
-- **14:40–15:40** Crisis Prep in Commitee
-- **15:40–16:50** GA on the crisis (Security, Speccom, Political, DISEC, EnviroSci), Human Rights Forum (Human Rights Council, Human Right Committee, Health, EcoFin)
-- **17:00–17:30** Closing Ceremony 
+## Security Council, Political Committee, EcoFin Committee
+- **9:50–12:40** Committees in Session
+- **12:30–12:00** Lunch
+- **13:10–14:00** Committees in Session
+- **14:00–14:05** Announce Crisis
+- **14:05–14:25** Break
+- **14:25–15:30** Crisis Prep in Committee
+- **15:40–16:50** Forum on Human Rights
+
+---
+- **17:00–17:30** Closing Ceremony + Presentation of Awards
