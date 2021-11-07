@@ -1,10 +1,20 @@
-# DISEC Committee Issue 2
-Fusce sit amet mauris sit amet dui tincidunt tincidunt. Nam pharetra, mi quis finibus dignissim, odio augue pretium nibh, ut vehicula ligula sem eget dui. Integer congue consequat pharetra. In tempor consequat luctus. Duis sit amet massa elementum, iaculis mauris eget, fermentum dolor. Suspendisse eleifend fringilla nulla non porta. Proin luctus porta tortor sed rhoncus. Nullam porta massa in massa finibus, vel maximus augue cursus. Sed eget imperdiet erat. Donec maximus blandit aliquam. Donec eu mollis nisi, at maximus ante. Donec nunc tellus, convallis ac urna eu, dignissim consequat leo. Quisque non erat eu dui cursus dictum. Suspendisse cursus tristique mauris, et sagittis nisi laoreet dignissim.
+# The Issue of Drones in Afghan Airspace
+After the USA agreed to peace with the Taliban and agreed to withdraw forces from Afghanistan, the issue of drones in Afghan airspace has been an ongoing issue, with the US wishing to monitor and target anti-western terrorist groups such as Al-Qaeda and so called Islamic state within Afghanistan. There have been terrorist attacks in Afghanistan from Isis-K, the afghan branch of so called Islamic State, so there is potential for common work against the terrorist group. However, US drone presence has proved provocative in Afghanistan, with the USA assisinating an Afghan aid worker with a drone , mistakenly thinking that he was a terrorist. This is not the first time US used air-based weaponry on innocents in the region, with US plains bombing a hospital In Kunduz on October 3rd, 2015.
 
-Sed non eros a risus pharetra vulputate. Vivamus ante dolor, viverra quis consectetur in, pellentesque sed turpis. Praesent diam urna, scelerisque quis sodales vel, viverra ut orci. Nam cursus urna quis augue semper, et volutpat magna iaculis. Ut egestas, felis a fermentum finibus, augue ex consequat tellus, quis auctor orci leo vitae velit. Quisque porttitor nibh lacus. Ut vel tincidunt arcu. Cras lorem sapien, tristique vitae neque condimentum, vehicula sollicitudin arcu. Praesent varius vehicula nisl, ac euismod tortor luctus vitae. Curabitur vehicula lacinia ex vitae eleifend. Nam tincidunt ipsum eu arcu feugiat, eu rutrum lacus blandit.
+Drones, also referred to as UAVs (unmanned aerial vehicles) are planes used to target and attack certain people or locations in warfare without having to risk any personnel, and have been used frequently by the USA in recent wars it has been involved with. It is worth noting that according to the BIJ, 22% of all casualties from drone strikes are civilians, and according to numbers from 2014, the USA has approximately 10,000 UAVs in its arsenal.
 
-Quisque eu purus eget turpis maximus ultrices. Fusce augue tellus, pharetra vitae leo non, vulputate tempus metus. Nunc accumsan dictum rhoncus. Suspendisse placerat ut ligula sit amet mollis. Vestibulum ut nisi a ligula consectetur eleifend at et augue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus nec eros eget nisl maximus tincidunt. Vivamus libero felis, luctus vestibulum maximus vel, sodales ut metus. Aliquam tincidunt dapibus magna at suscipit.
+This in undoubtedly a multifaceted issue which brings up many questions and alternating interests, with common interests to combat terrorist organisations in Afghanistan, but disputes over Afghan autonomy, US strategic interests and the legitimacy of the Taliban make this debate a decisive issue. Further debate over the ethics of the use of UAVs is also something that should be considered for this debate, as well as if foreign powers have the mandate to attack terrorist cells in foreign countries.
 
-Ut dui risus, iaculis eget pharetra eu, cursus ut ante. Cras vitae eleifend justo. Phasellus tempus leo ut massa malesuada, a tristique metus suscipit. Donec lobortis dapibus sapien, ut pulvinar enim consequat et. Praesent at nibh ac erat accumsan mattis ac ut nunc. Duis rhoncus augue vitae convallis fermentum. Donec fermentum dui ac neque malesuada tempus consectetur ut libero.
+## Points to Consider
 
-Etiam maximus tempus leo nec tincidunt. Morbi egestas elementum sem a vestibulum. Aliquam nec nibh rhoncus, iaculis sem vitae, accumsan tortor. Aenean porttitor imperdiet est id pharetra. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras dapibus molestie diam, et sagittis risus vestibulum eu. Etiam ornare faucibus dui sed mattis. In convallis erat vitae semper vestibulum. Sed luctus ut lorem ac tincidunt. Donec libero dolor, luctus non magna varius, varius luctus ex. Aenean vel risus lorem. Sed ornare lacus enim, ac varius dolor tempor nec. Mauris varius ligula tellus, ac euismod elit posuere eget. Donec elementum luctus ante. Pellentesque blandit elit massa, eu facilisis eros aliquet a.
+- What your country's policy on UAVs is
+
+- Your country's involvement in Afghanistan.
+
+- Your country's relationship with the USA, exiled Afghan government and the Taliban.
+
+- Does the foreign nations have the rights to attack terrorist groups in Afghanistan through drone strikes?
+
+- Does the Taliban have Jurisdiction over Afghan airspace?
+
+- What agreements, which all sides would agree too, can be reached?

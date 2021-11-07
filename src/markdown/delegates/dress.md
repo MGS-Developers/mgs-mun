@@ -1,7 +1,26 @@
 # Dress Code
 
-this is the dress code:
+The dress code for MGSMUN 2021 is formal.
+
+### Suggestions for Male Delegates
+- Suits
+- Blazers
+- Smart Trousers
+- Ties
+- Smart Shoes
+
+### Suggestions for Female Delegates
+- Suits
+- Dresses
+- Skirts
+- Smart Blouses or Shirts
+- Smart Shoes
+
+### Please do not wear...
+- National Dress
+- Jeans
+- Leggings
+- Trainers
+- Tracksuits
 
 ![recommended costume](https://images.halloweencostumes.co.uk/products/22233/1-1/adult-deluxe-frog-costume.jpg)
-
-![recommended costume 2](https://cdn.shopify.com/s/files/1/0023/6178/6426/products/shaun-the-sheep-costume-alternative-view3_2000x.jpg?v=1602827929)

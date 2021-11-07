@@ -1,12 +1,42 @@
-# Speccom on Tech Issue 1
-Integer auctor ipsum ac lectus porttitor, et semper velit porta. Phasellus vitae pulvinar neque. Phasellus condimentum sagittis maximus. Ut at nunc condimentum, eleifend magna sed, tempor sapien. Aenean placerat lorem gravida diam pulvinar imperdiet. Sed dictum massa at placerat vestibulum. Sed tincidunt consectetur pharetra. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin sed neque semper, consequat turpis nec, auctor sem. Etiam ut suscipit purus, nec malesuada arcu. Integer sagittis mollis libero, eget imperdiet arcu ullamcorper at.
+# The Issue of Closing the Technology Gap
+Definitions: technology - products and services involving a connection to the internet or fostering online communication (e.g. laptops, mobile phones and tablets).
 
-Nulla fermentum nunc et pellentesque lacinia. Curabitur eget urna libero. Etiam tincidunt urna dictum, lobortis mi eget, varius erat. Quisque varius, justo vel iaculis consequat, risus elit tristique augue, at dapibus enim eros sit amet tortor. Suspendisse vel sem dictum, eleifend justo in, egestas odio. Vivamus eget congue sapien. Integer laoreet erat justo. Aenean mollis enim ac nisl vestibulum, ut pretium lacus fermentum. Phasellus suscipit convallis ligula, sit amet dapibus sem sagittis eget. Suspendisse maximus porta dolor eu tincidunt. Ut sollicitudin tortor laoreet mattis laoreet.
+As the world keeps moving forward with developing new technologies, many Low Income Countries (LICs) have been left behind with massively outdated technology, or no technology at all. These countries have struggled to draw in the investment from other countries and Trans-National Corporations (TNCs) which likely means that without UN action these countries won't be able to catch up with the rest of the world. One of the main problems is structural limitations within LICs which can limit the countries' progress in areas like science, technology and innovation (STI).
 
-Praesent imperdiet metus diam, eu semper orci posuere a. Morbi efficitur sapien sed erat viverra elementum. Phasellus venenatis consequat nunc quis lobortis. Nunc ultricies auctor odio, quis consequat ante tincidunt sit amet. Etiam lacinia justo euismod, mattis mauris quis, lobortis lectus. Quisque et tempor ligula. Fusce non felis tortor. Nam eros nibh, congue ac pellentesque quis, auctor sed erat. Donec arcu turpis, efficitur sit amet sem nec, posuere pulvinar felis.
+A major hurdle to overcome in order to help close the technology gap lies within education. In 2015, almost 40% of children and adolescents not in education were from LICs. This problem is more apparent with tertiary education where the enrolment ratio in 2013 was less than 9% in LICs compared to 33% worldwide. Addressing this education divide will help to provide a long term solution to closing the technology gap, by ensuring more countries have access to experts in STI.
 
-Aenean nulla purus, imperdiet sed semper ut, ornare et metus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc bibendum tellus ut magna rutrum, sit amet bibendum dolor viverra. Sed dictum dui quis euismod vehicula. Integer sit amet magna condimentum, vehicula lacus in, sagittis risus. Suspendisse nec purus dui. Quisque non lectus placerat, ullamcorper eros sit amet, varius quam.
+The lack of developed high-speed connectivity and broadband in LICs, where it is inaccessible and unaffordable, also hinders technology advancements. Improved broadband would bring massive educational, health and financial benefits to LICs and thus is critical to closing the technology gap. It is essential that we empower and equip governments and the private sector to provide this crucial infrastructure to LICs.
 
-Nulla facilisi. Quisque posuere luctus aliquet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam hendrerit felis quis dapibus lacinia. Suspendisse potenti. Integer at bibendum justo. Ut scelerisque turpis in nunc laoreet placerat. Etiam efficitur tristique massa, luctus maximus ante. Quisque eget leo at leo rhoncus sodales. Quisque eget rhoncus arcu.
+Having affordable access to technology - once infrastructure problems are addressed - is another major issue. With the costs of building infrastructure to support the development of technology falling on the consumer, this has made it a burden on those living in LICs, limiting the scope and potential of technological development. We must also consider that we should attempt to do this in the most environmentally friendly way possible to avoid worsening climate change.
 
+This issue remains incredibly challenging to address and thus there has been limited UN action towards achieving it. There are many complexities to take into account, especially given the fragile economies in many LICs, which have been massively impacted by the pandemic. Below are some points to consider but feel free to expand on these points and address other related issues but remember to stay focused on closing the technology gap. Hopefully together we can find a solution to this significant challenge.
 
+## Points to Consider
+
+- What can be done in the short term to address the growing technology gap between LDC's and more developed countries?
+
+- What can the UN do to help to address the lack of infrastructure to support the use of technology within LDC'S especially for STI?
+
+- How can we help empower people within LDC's to help develop there own new technologies?
+
+- How can the UN work with private companies and charities to introduce technology into new areas at a cheaper rate to ensure affordability?
+
+- Should this be seen as a pressing issue for LDC's or are other issues more important?
+
+- What do we do to ensure that technology introduced doesn't have a massive enviromental impact?
+
+## Further Research
+
+[Closing the Technology Gap in Least Developed Countries | United Nations](https://www.un.org/en/chronicle/article/closing-technology-gap-least-developed-countries)
+
+[Digital technologies in agriculture and rural areas - Briefing paper (fao.org)](https://www.fao.org/3/ca4887en/ca4887en.pdf)
+
+[Bringing the Internet to the (Developing) World | July 2018 | Communications of the ACM](https://cacm.acm.org/magazines/2018/7/229046-bringing-the-internet-to-the-developing-world/fulltext)
+
+[Africa’s Internet of Things: Challenges and Opportunities (cipesa.org)](https://cipesa.org/2016/10/africas-internet-of-things-challenges-and-opportunities/)
+
+[Closing the Digital Gender Gap: Why Now Should Have Been Yesterday (worldbank.org)](https://www.worldbank.org/en/news/feature/2020/06/09/closing-the-digital-gender-gap-why-now-should-have-been-yesterday)
+
+[Meaningful Technology Transfer to the LDCs (ethz.ch)](https://www.files.ethz.ch/isn/138434/technology-transfer-to-the-ldcs.pdf)
+
+> All resolutions must be emailed to aspine-y15@mgs.org before 23.59 on Thursday 9th December. Please put your country and issue within the subject line. 

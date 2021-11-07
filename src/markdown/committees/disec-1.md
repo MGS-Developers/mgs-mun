@@ -1,11 +1,31 @@
-# DISEC Committee Issue 1
-Donec condimentum convallis diam ut ultrices. Aliquam est orci, faucibus in condimentum nec, facilisis quis mi. Sed in fringilla urna, eget egestas dolor. Aliquam erat volutpat. Vestibulum nibh arcu, molestie vitae sapien eu, viverra bibendum mi. Aenean vulputate id ex sit amet cursus. Cras fringilla tristique eros, vel tincidunt lorem viverra sit amet. Curabitur gravida, nulla eget scelerisque laoreet, lacus mauris venenatis augue, nec consequat ipsum felis nec quam. Nunc luctus nisl rhoncus, mattis justo vitae, condimentum dolor. Cras placerat, neque pretium aliquam bibendum, magna diam ultrices est, a porttitor ex metus ac magna. Proin id finibus quam, in varius dolor. Aliquam malesuada felis vel malesuada iaculis. Cras non sagittis lorem, imperdiet laoreet lacus.
+# The Issue of Nuclear Submarine Treaties
+Nuclear submarines are submarines that run off of nuclear energy (note, they do not necessarily, and often don’t, carry nuclear weapons). Many nations’ navies have such nuclear-powered submarines, including France, the UK (and its Trident program), the USA, China, Russia and India, while other countries, such as New Zealand, are extremely wary of such for the reasons of their effectiveness and the fact that they are only owned by the aforementioned six countries. These submarines can go for weeks on end without detection under the water, and are extremely effective. They are often employed by nations in contentious areas to assert positions regarding rights to certain waters.
 
-Praesent a nisi ornare, iaculis orci nec, bibendum augue. Vivamus nec sem aliquam, rhoncus ipsum eu, ornare nibh. Cras molestie mi vel sem lobortis, sit amet cursus velit elementum. Donec ex libero, lacinia at lectus maximus, suscipit tristique sapien. Cras laoreet leo sapien, sit amet congue purus pretium vitae. Maecenas scelerisque suscipit sem, vitae pellentesque tellus sagittis sit amet. Aliquam nec sapien metus. Sed accumsan quis felis vel blandit. Duis sollicitudin fringilla rhoncus. Ut nunc est, luctus et suscipit eget, vehicula a tortor. Donec porttitor, magna eget dapibus aliquam, nisi justo placerat est, vel sagittis nisi dolor vitae odio. Nunc sagittis est sit amet facilisis bibendum. Aliquam quis orci ornare dolor ullamcorper venenatis.
+In the time of the UN, there have been many treaties attempting to govern their use, for example the AUKUS deal which is explained below. Other major deals include the 1958 US-UK deal. The only stance taken by the UN is an exception given to them in the Treaty on the Non-Proliferation of Nuclear Weapons in 1968.
 
-Maecenas in fringilla urna. Aliquam erat volutpat. Ut vitae vestibulum arcu, eu efficitur nunc. Maecenas maximus, nulla quis euismod tincidunt, dolor risus finibus enim, quis tempor quam lorem eu elit. Nullam a quam id elit dignissim blandit. Nunc nec faucibus justo, ac ultrices nunc. Aenean feugiat, sapien et ultrices facilisis, leo tellus consectetur arcu, ac euismod turpis lectus vitae erat. Suspendisse commodo erat sit amet urna congue mattis. Pellentesque eu vestibulum quam, id facilisis mauris.
+The AUKUS deal, between Australia, the United Kingdom and the USA is a deal to cooperate between the three countries on the issues of cyber capabilities, artificial intelligence and quantum technologies, but mainly to aid the Australian navy with the acquisition of nuclear powered submarines for deployment in the Indo-Pacific Region (with particular attention given to China, although the UK denies this).
 
-Pellentesque non leo enim. Morbi ut augue ex. Suspendisse cursus ullamcorper ex aliquet tristique. Maecenas feugiat risus a tincidunt consectetur. In hac habitasse platea dictumst. Fusce non convallis orci, non lobortis enim. Nullam faucibus libero vel scelerisque dapibus. Aenean scelerisque ante ut arcu fermentum, in sollicitudin lorem dictum.
+This is extremely controversial for two main reasons.
 
-Aenean et bibendum lorem. Nulla a mi sollicitudin, consequat odio nec, tempus nisl. Proin ac pulvinar risus. Etiam posuere, arcu nec porttitor ornare, augue dolor molestie lorem, vel euismod urna tortor a mi. Phasellus tellus justo, mollis at odio eu, vulputate malesuada orci. Sed aliquet nunc mi, a elementum velit convallis quis. Quisque at diam et tellus rutrum hendrerit quis in mauris.
+Firstly, this is seen as an adversarial move against China. For decades, China has claimed a large portion of the South China Sea, although this receives little international recognition, and powers such as the USA and the UK regularly sail ships through the region to assert their position that the waters are not Chinese. In response to this, China has been building islands in the region equipped with military bases in an attempt to solidify their claim. The AUKUS deal will equip the Australian navy with the means to sail these waters alongside the USA and UK and create a stronger opposition to China’s claim. This has caused concern amongst many nations that increasing tensions and militarisation in the region may lead to escalation and conflict – or at least that the deal will greatly sour relations between China and the USA.
+
+Secondly, there is the issue of a pre-existing deal between France and Australia for the French to supply the Australians with nuclear-powered submarines. The reaching of the AUKUS deal necessitated that the Australians pull out of the deal with France, which has left the French government furious.
+
+## Points to Consider
+
+- Should nations be encouraged to acquire nuclear submarines?
+
+- Should there be UN legislation governing their use?
+
+- Should places of contention such as the South China Sea become more or less militarised (especially by nuclear submarines)?
+
+- Is the AUKUS deal a good idea for:
+
+    - Your country?
+
+    - Anti-Chinese unity?
+
+    - World peace?
+
+- Was it right for Australia to pull out of the deal with France?
 
