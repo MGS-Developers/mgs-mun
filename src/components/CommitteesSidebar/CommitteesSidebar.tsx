@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom'
 import { useMemo } from 'react'
 import chroma from 'chroma-js'
 import { committees } from '../../data/committees'
-import CommitteeLogo from '../CommitteeLogo/CommitteeLogo'
+import CommitteeLogo from '../../bits/CommitteeLogo/CommitteeLogo'
 
 interface Props {
     backgroundColorBase: string;

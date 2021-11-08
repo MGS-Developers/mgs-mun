@@ -6,10 +6,4 @@ Transport is also a critical issue, but no one has been travelling! As the world
 
 When preparing for this committee, I would encourage you to not only read the briefing paper, but also read around the issues. There are so many different directions you can approach these issues from. EnviroSci is the committee of new ideas. Writing a resolution is a fantastic way to broaden your understanding of the issues, and I would recommend everyone to come prepared with at least one idea of an amendment to one of the issues. We are going to have a higher-than-average number of new delegates in our committee this year, so I hope that these issues are interesting enough to excite you about MUN. To any more experienced delegates, I hope you also find the issues interesting and come prepared with solutions for ocean pollution and the development of transport.
 
----
-## Briefing papers
-[The Issue of Ocean Pollution](/committees/envirosci/issue1)
-
-[The Issue of Sustainable Transport](/committees/envirosci/issue2)
-
 > All resolutions must be emailed to cockere-y16@mgs.org before 23.59 on Friday 10th December. Please put your country and issue within the subject line.

@@ -6,11 +6,4 @@ Our second issue is on Afghanistan, another historically-shaped and longstanding
 
 We would highly recommend that you research the issues and your countries’ respective positions on them. Given that the Security Council is for experienced delegates, we’d like you to think beyond what your country’s government says in public about deeper and more secretive objectives. How can your country maximise their options or generate possible courses of action, whatever the outcome of each of these disputes? Please do read the briefing papers and explore the recommended further reading provided as a starting point, and we’d love for all delegates to submit a resolution on at least one of the issues, which demonstrate your understanding and compromise skills whilst also providing the basis for amendments. Another quick note is that the Security Council will be working using its specific procedures, with clause-by-clause debate, P5 vetoes and 2/3 majorities as the modus operandi, and delegates should consider these constraints when proposing solutions. We look forward to welcoming you to our conference, and hope for a fruitful, productive (and also fun!) debate.
 
----
-## Briefing papers
-
-[The Issue of Taiwan](/committees/security/issue1)
-
-[The Issue of Afghanistan](/committees/security/issue2)
-
 > All resolutions must be emailed to fosterz-y16@mgs.org before 23.59 on Friday 10th of December. Please put your country and issue within the subject line.

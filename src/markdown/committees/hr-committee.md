@@ -6,11 +6,4 @@ Our second issue is on the effect of climate change on poor communities. As is k
 
 We'd highly encourage you to research your issues thoroughly, using the briefing papers, resources, and your own extra googling to get a hold on the facts around the issues, as well as your country's position on the problems and how they've responded to them up to this point. We'd love for you to get involved in the debate, whether you're a new delegate or an old hand, and submitting a resolution can be a great way to set you up for success – demonstrating creativity in solving the problems at hand as well as providing material for amendments. We're very excited to welcome you to our warm, friendly and fun committee and hope you have a fantastic time at MGSMUN21, having some fruitful debate as well as a good laugh!
 
----
-## Briefing papers
-
-[The Issue of Unaccompanied Migrant Children and Adolescents](/committees/hr-committee/issue1)
-
-[The Issue of the Effect of Climate Change on Poor Communities](/committees/hr-committee/issue2)
-
 > All resolutions must be emailed to barclayn-y15@mgs.org before 23.59 on Friday 10th December. Please put your country and issue within the subject line.

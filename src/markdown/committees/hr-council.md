@@ -6,11 +6,4 @@ The second issue being debated is that of Anti-Discrimination Education. We have
 
 I am sure that each member state in our council will have their own view on the above matters, and I look forward to a day of fun (and respectful!) debate. — Oli :)
 
----
-## Briefing papers
-
-[The Issue of Anti-Discrimination Education](/committees/hr-council/issue1)
-
-[The Issue of Freedom of Expression on the Internet](/committees/hr-council/issue2)
-
 > All resolutions must be emailed to sandallo-y15@mgs.org before 23.59 on Friday 10th December. Please put your country and issue within the subject line. 

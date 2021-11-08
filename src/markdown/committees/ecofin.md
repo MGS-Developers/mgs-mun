@@ -6,11 +6,4 @@ The second issue regarding Global Pensions and Old-Age Income Poverty addresses 
 
 We strongly encourage you to do, at minimum, basic research on the issues and your country’s view on the matter. Submitting a resolution is a great way to demonstrate your knowledge and creativity when addressing these challenging issues. Even if your resolution is not chosen to be debated, we will have reviewed and considered it when deciding who will receive awards. Whether you are an experienced or newer delegate, we hope that you will enjoy our conference and look forward to welcoming you all on the 11th December.
 
----
-## Briefing Papers
-
-[The Issue of Economic Recovery Post-COVID](/committees/ecofin/issue1)
-
-[The Issue of Global Pensions and Old-Age Income Poverty](/committees/ecofin/issue2)
-
 > All resolutions must be emailed to kadirm-y15@mgs.org before 23.59 on Friday 10th December. Please put your country and issue within the subject line. 

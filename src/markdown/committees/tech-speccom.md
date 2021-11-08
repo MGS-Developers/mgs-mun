@@ -6,11 +6,4 @@ Our second Issue on Cryptocurrencies asks the challenging questions that need to
 
 I encourage you to research the issues and your country’s position (or lack thereof) on these matters. Submitting a resolution is a great way to demonstrate your knowledge and creativity when addressing these challenging issues. Whether you are an experienced delegate or a ‘first-timer’, I hope that you will enjoy our conference, and I look forward to welcoming you on December 11th.
 
----
-## Briefing papers
-
-[The Issue of Closing the Technology Gap](/committees/tech-speccom/issue1)
-
-[The Issue of Cryptocurrencies](/committees/tech-speccom/issue2)
-
 > All resolutions must be emailed to aspine-y15@mgs.org before 23.59 on Friday 10th of December. Please put your country and issue within the subject line.
