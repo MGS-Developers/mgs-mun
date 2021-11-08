@@ -1,7 +1,7 @@
 import styles from './Markdown.module.scss';
 import { useEffect, useMemo, useState } from 'react'
 import ReactMarkdown from 'react-markdown';
-import watermarkImage from '../../assets/MGSMUN logo watermark.png';
+import watermarkImage from '../../assets/png_logos/MGSMUN logo watermark.png';
 import { Column, Row } from '../../bits/Row/Row'
 import CommitteesSidebar from '../../components/CommitteesSidebar/CommitteesSidebar'
 import rehypeRaw from 'rehype-raw'

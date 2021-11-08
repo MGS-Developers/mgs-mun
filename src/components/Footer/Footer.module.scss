@@ -20,5 +20,9 @@
     @include poppins;
     color: rgba(0, 0, 0, 0.5);
     text-align: center;
+
+    a {
+      @include link;
+    }
   }
 }

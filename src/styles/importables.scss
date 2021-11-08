@@ -13,3 +13,12 @@ $footer-color: #96baef;
     padding: 10px 15px;
   }
 }
+
+@mixin link() {
+  color: #1b4787;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}

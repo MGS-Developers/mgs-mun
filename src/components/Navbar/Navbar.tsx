@@ -1,5 +1,5 @@
 import styles from './Navbar.module.scss';
-import logo from '../../assets/MGSMUN logo white.png';
+import logo from '../../assets/png_logos/MGSMUN logo white.png';
 import NavbarItem, { NavbarItemProps } from './NavbarItem'
 import { useEffect, useMemo, useState } from 'react'
 import menuIcon from '../../assets/menu_icon.svg'

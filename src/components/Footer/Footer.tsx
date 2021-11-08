@@ -8,13 +8,29 @@ export default function Footer() {
         return location.pathname !== '/';
     }, [location]);
 
+    const copyrightYear = useMemo(() => {
+        const year = new Date().getFullYear();
+        if (year === 2021) {
+            return '2021';
+        } else {
+            return `2021—${year}`
+        }
+    }, []);
+
     if (!show) return <></>
     return <footer className={styles.footer}>
         <p>
-            Website by Pal Kerecsenyi (kerecsenyip-y15@mgs.org)
+            <a
+                href='https://github.com/palkerecsenyi/mgs-mun'
+                target='_blank'
+                rel='noreferrer'
+            >
+                Website
+            </a>
+            &nbsp;by Pal Kerecsenyi (kerecsenyip-y15@mgs.org)
         </p>
         <p>
-            &copy; Manchester Grammar School 2021
+            &copy; Pal Kerecsenyi {copyrightYear} under MIT license
         </p>
     </footer>
 }

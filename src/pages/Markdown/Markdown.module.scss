@@ -15,12 +15,7 @@
   }
 
   a {
-    color: #1b4787;
-    text-decoration: none;
-
-    &:hover {
-      text-decoration: underline;
-    }
+    @include link;
   }
 
   img {
