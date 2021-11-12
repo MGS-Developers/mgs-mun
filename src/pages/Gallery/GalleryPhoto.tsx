@@ -1,6 +1,7 @@
 import Image from '../../bits/Image/Image'
 import { useEffect, useState } from 'react'
 import {getStorage, getDownloadURL, ref} from 'firebase/storage';
+import styles from './Gallery.module.scss';
 
 export interface GalleryPhotoData {
     id: string;
@@ -8,9 +9,10 @@ export interface GalleryPhotoData {
     width: number;
     height: number;
     alt: string;
+    showAlt: boolean;
 }
 export default function GalleryPhoto(
-    {id, hash, width, height, alt}: GalleryPhotoData
+    {id, hash, width, height, alt, showAlt}: GalleryPhotoData
 ) {
     const [imageSrc, setImageSrc] = useState<string>();
     useEffect(() => {
@@ -23,17 +25,32 @@ export default function GalleryPhoto(
 
     const [computedHeight, setComputedHeight] = useState(0);
 
-    return <Image
-        src={imageSrc}
-        hash={hash}
-        alt={alt}
-        width={width}
-        height={height}
+    return <div
+        className={styles.imageContainer}
         style={{
             gridRow: "auto / span " + (Math.ceil(computedHeight) + 10)
         }}
-        onDimensions={(w, h) => {
-            setComputedHeight(h);
-        }}
-    />
+    >
+        <Image
+            src={imageSrc}
+            hash={hash}
+            alt={alt}
+            width={width}
+            height={height}
+            onDimensions={(w, h) => {
+                setComputedHeight(h);
+            }}
+        />
+
+        {showAlt && <div
+            className={styles.alt}
+            style={{
+                top: computedHeight - 40,
+            }}
+        >
+            <p className={styles.altText}>
+                {alt}
+            </p>
+        </div>}
+    </div>
 }
