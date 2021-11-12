@@ -3,7 +3,7 @@
 .container {
   @include fluid-container;
 
-  h1, p {
+  h1, h2, p {
     @include poppins;
   }
 
@@ -14,5 +14,9 @@
   iframe {
     width: 100%;
     border: none;
+  }
+
+  .link {
+    @include link;
   }
 }

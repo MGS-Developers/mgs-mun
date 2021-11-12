@@ -1,5 +1,5 @@
 import styles from './Footer.module.scss';
-import { useLocation } from 'react-router-dom'
+import { Link, useLocation } from 'react-router-dom'
 import { useMemo } from 'react'
 
 export default function Footer() {
@@ -30,7 +30,10 @@ export default function Footer() {
             &nbsp;by Pal Kerecsenyi (kerecsenyip-y15@mgs.org)
         </p>
         <p>
-            &copy; Pal Kerecsenyi {copyrightYear} under MIT license
+            &copy; Pal Kerecsenyi {copyrightYear} under MIT license, various&nbsp;
+            <Link to='/info/media'>
+                artwork licenses
+            </Link>
         </p>
     </footer>
 }

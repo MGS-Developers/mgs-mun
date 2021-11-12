@@ -326,10 +326,16 @@ export const routes: NavbarRouteItem[] = [
                 source: 'info/schools',
             },
             {
-                label: 'How to find us',
+                label: 'Contact & directions',
                 href: '/info/directions',
                 component: Directions,
             },
+            {
+                label: 'Media licensing',
+                href: '/info/media',
+                component: MarkdownPage,
+                source: 'info/media',
+            }
         ]
     },
     {

@@ -12,7 +12,7 @@ export default function Home() {
                         Welcome to MGSMUN 2021!
                     </h1>
                     <p>
-                        We look forward to welcoming you all to our conference on the <strong>11th of Dec</strong>.
+                        We look forward to welcoming you all to our conference on the <strong>11th of December</strong>.
                     </p>
                     <p>
                         If you have any queries, please email&nbsp;
