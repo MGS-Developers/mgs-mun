@@ -1,5 +1,5 @@
 # The Issue of Closing the Technology Gap
-Definitions: technology - products and services involving a connection to the internet or fostering online communication (e.g. laptops, mobile phones and tablets).
+Definitions: _technology_ — products and services involving a connection to the internet or fostering online communication (e.g. laptops, mobile phones and tablets).
 
 As the world keeps moving forward with developing new technologies, many Low Income Countries (LICs) have been left behind with massively outdated technology, or no technology at all. These countries have struggled to draw in the investment from other countries and Trans-National Corporations (TNCs) which likely means that without UN action these countries won't be able to catch up with the rest of the world. One of the main problems is structural limitations within LICs which can limit the countries' progress in areas like science, technology and innovation (STI).
 

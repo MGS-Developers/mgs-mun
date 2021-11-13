@@ -18,3 +18,5 @@ This in undoubtedly a multifaceted issue which brings up many questions and alte
 - Does the Taliban have Jurisdiction over Afghan airspace?
 
 - What agreements, which all sides would agree too, can be reached?
+
+> All resolutions must be emailed to hill-aspinallp-y16@mgs.org before 23.59 on Friday 10th December. Please put your country and issue within the subject line.

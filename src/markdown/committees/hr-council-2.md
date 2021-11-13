@@ -1,10 +1,37 @@
-# Human Rights Council Issue 2
-Cras diam metus, varius id lobortis et, congue vitae est. Fusce ultricies in quam ut congue. Phasellus mi lorem, tristique sit amet nunc non, sollicitudin ultricies diam. Sed commodo orci eget tincidunt tempus. Etiam sagittis molestie enim, vitae maximus justo fringilla at. Aenean malesuada felis et justo faucibus rhoncus. Pellentesque tempus tempus varius. Donec id mauris vitae turpis rutrum tristique. Nullam bibendum erat nisi, pellentesque porttitor turpis ullamcorper quis. Suspendisse potenti. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi ullamcorper, sapien vel eleifend auctor, neque libero consectetur nulla, quis facilisis neque urna quis ipsum. Integer a bibendum leo. Praesent sem nulla, luctus at neque et, vestibulum aliquet lectus.
+# The Issue of Freedom of Expression on the Internet
+"Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers." – Article 19 of the UDHR
 
-Integer nec sagittis urna. Sed vitae purus commodo, ultricies nulla a, consequat velit. Suspendisse ut risus sed ligula placerat commodo. Nam at ultrices urna. Nullam fermentum nibh justo, et facilisis tortor finibus eget. Cras finibus accumsan aliquet. Suspendisse sit amet pretium libero. Fusce sit amet dignissim arcu. Nam ut magna in mi fringilla dapibus at quis ex. Nulla et tellus nec augue accumsan aliquet at euismod ipsum. Phasellus mollis at ante ac rutrum. Vivamus vulputate feugiat lectus sit amet bibendum.
+That does not mean that you can say what you want, when you want, and how you want. In some specific circumstances, free speech and freedom of expression can be restricted. Amnesty International UK clearly defines it:
 
-Phasellus dapibus, nisl at commodo faucibus, ante tortor dapibus libero, eu fringilla nisi erat vel nunc. Nunc vestibulum velit eget semper fermentum. Nam rhoncus sodales commodo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean et massa ultrices, pulvinar diam ac, cursus lectus. Nunc sagittis, erat eget semper faucibus, ex purus tempus mauris, vel faucibus libero felis vel velit. Phasellus tempus tortor consequat tellus mollis suscipit. Etiam tempus dui vel massa ultrices, ac commodo libero egestas. Suspendisse rutrum, enim efficitur laoreet lacinia, dolor metus rutrum elit, nec vulputate nisi lorem et nunc. Praesent tempus nisl eget massa facilisis maximus. Cras eget sollicitudin nisl. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas euismod, tortor sit amet placerat ultricies, nisl erat tincidunt nisl, vel rutrum arcu lectus sed erat.
+> Governments have an obligation to prohibit hate speech and incitement. And restrictions can also be justified if they protect specific public interest or the rights and reputations of others.
 
-In malesuada est eu mauris dignissim, vel interdum erat tristique. Quisque elementum lectus vitae porttitor varius. Nunc commodo mi vitae magna blandit, ac dapibus quam porttitor. In a enim mauris. Morbi consequat pulvinar ante aliquam pulvinar. Vestibulum at est tempus, pharetra sem in, pellentesque eros. Aliquam cursus venenatis vulputate.
+> Any restrictions on freedom of speech and freedom of expression must be set out in laws that must in turn be clear and concise so everyone can understand them.
 
-Fusce turpis arcu, porttitor vitae convallis in, consectetur et eros. Curabitur commodo sodales elit eu lacinia. Sed tempus metus ut erat imperdiet tincidunt. Duis nec nulla eget eros blandit ullamcorper quis a ante. Vestibulum dapibus erat tincidunt magna finibus, rutrum cursus ligula sodales. Suspendisse malesuada tortor nec scelerisque fringilla. Nulla eget orci vitae nibh auctor sollicitudin. Aliquam vel molestie neque, pellentesque commodo nisl. Ut faucibus eleifend efficitur. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean a eros egestas, varius nunc a, euismod ligula.
+> People imposing the restrictions (whether they are governments, employers or anyone else) must be able to demonstrate the need for them, and they must be proportionate.
+
+Moreover, UNESCO, on the issue of whether freedom of expression is applicable on the internet states:
+
+> The principle of freedom of expression and human rights must apply not only to traditional media but also to the Internet and all types of emerging media platforms, which will contribute to development, democracy and dialogue.
+
+The internet is, to many, the most democratic and ‘free’ creation to date. How can we go about keeping it free and democratic, whilst also keeping it safe and protecting human rights? Is it even worth the UN's time to try and monitor everything? Whose responsibility is it to keep the internet free of hate speech? Perhaps the issue is less of what is right and wrong, and more about how we can most effectively go about protecting peoples' human rights on the internet.
+
+Another aspect of this issue is that of censorship. Again, the issue of the responsibility of the interpretation and the upkeep of Article 19 is key in this debate. Being such a broad and multifaceted issue, debate on this issue can be fun, engaging, and relevant to us as young people who have experienced both the benefits and downsides of growing up in an almost fully developed digital, globally connected world.
+
+## Points to Consider:
+
+- How can the UN best protect peoples’ human rights online?;
+- How clear is Article 19 of the UDHR?;
+- How can we best mitigate censorship online?;
+- How can we best deal with those who violate others' human rights by inciting violence or hate speech through their words online?
+
+## Further Research:
+
+[https://www.amnesty.org.uk/free-speech-freedom-expression-human-right](https://www.amnesty.org.uk/free-speech-freedom-expression-human-right)
+
+[https://www.annefrank.org/en/topics/discrimination-and-equal-rights/do-hateful-remarks-social-media-constitute-discrimination/](https://www.annefrank.org/en/topics/discrimination-and-equal-rights/do-hateful-remarks-social-media-constitute-discrimination/)
+
+[https://en.unesco.org/themes/freedom-expression-internet](https://en.unesco.org/themes/freedom-expression-internet)
+
+[https://www.bloomberg.com/news/articles/2021-06-19/why-free-speech-on-the-internet-isn-t-free-for-all-quicktake](https://www.bloomberg.com/news/articles/2021-06-19/why-free-speech-on-the-internet-isn-t-free-for-all-quicktake)
+
+> All resolutions must be emailed to sandallo-y15@mgs.org before 23.59 on Thursday 9th December. Please put your country and issue in the subject line. 

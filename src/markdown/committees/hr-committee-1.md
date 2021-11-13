@@ -1,10 +1,34 @@
-# Human Rights Committee Issue 1
-Etiam placerat malesuada cursus. Ut ullamcorper elementum urna, quis scelerisque turpis lacinia at. Praesent nisl lectus, porta cursus ligula ut, aliquam gravida tellus. Maecenas nunc tortor, pharetra vitae tortor sed, pretium suscipit quam. Integer sed suscipit velit, a varius metus. Praesent et dapibus felis, eget viverra elit. Aliquam sed tellus at neque luctus suscipit quis at arcu. Morbi sodales dolor ex, et congue mi laoreet non. Proin convallis nec enim non bibendum. Quisque euismod velit sit amet leo dignissim bibendum. Aliquam ornare metus vel leo scelerisque, eget scelerisque magna rhoncus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent ut semper erat. Fusce vel vulputate elit, nec faucibus velit. In in diam condimentum, malesuada orci in, sollicitudin diam. Ut ut dictum lorem, a dapibus nisl.
+# The Issue of Unaccompanied Migrant Children and Adolescents
+According to UN report on the Issue of human rights of unaccompanied migrant children:
 
-Proin vestibulum vitae nunc at scelerisque. Etiam hendrerit aliquam mattis. Pellentesque ultricies sodales malesuada. Curabitur mauris nulla, commodo eget sapien a, consequat faucibus ligula. Integer sodales vestibulum ante non tempus. Nullam sed imperdiet magna. Sed consequat orci nec tempus bibendum. Donec ut libero sem.
+There are three main categories of unaccompanied and separated children, each of which must receive a different response:
 
-Nulla vitae dui arcu. Ut id ipsum gravida, maximus mi ac, accumsan quam. Aliquam eu augue eget ante finibus rhoncus. Duis eu purus leo. Cras lectus arcu, pretium at nunc vel, volutpat laoreet sapien. Mauris elementum, sem imperdiet sollicitudin ullamcorper, mi mi viverra nibh, et dapibus eros lacus in ligula. Sed pellentesque ac mi ac sollicitudin. Nullam quam lectus, viverra sagittis ultricies vel, auctor eu metus. Aenean at arcu nec justo semper accumsan vel in velit.
+1. Children separated from their family or caregivers during the move. 
+2. Children who started their journey as unaccompanied or separated children and are currently travelling with groups of people. Most are males aged 14-17 years who avoid being registered or pretend to be young adults;
+3. Children who have interrupted their migration owing to a lack of resources. In the context of the European migrant crisis, children in this category are often found in urban areas in Greece and Italy and are particularly vulnerable to all types of abuse, exploitation, trafficking, enrolment by criminal groups and violence.
 
-Nam porttitor nunc sed lacus porta pulvinar. Aenean eget erat velit. Aenean ac quam mauris. Cras egestas, mauris et vestibulum malesuada, nisl orci tristique urna, semper rhoncus lacus ipsum nec diam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam lorem velit, bibendum nec facilisis nec, tincidunt vel dui. Nam lectus ligula, ultricies vel blandit ut, pharetra sit amet lectus. Vivamus sed massa vitae elit semper aliquet non at enim. Cras ut tempor leo. Ut porta tincidunt urna ac condimentum. Aliquam consequat metus vitae odio varius mattis. Quisque gravida eleifend tellus. Pellentesque eu ex vel orci molestie sollicitudin. Morbi eu malesuada magna, nec suscipit lorem. Etiam blandit dolor augue, sed pretium urna facilisis ut.
+According to UNICEF, in 2020 nearly 34 million refuges and asylum seekers were forcibly displaced from their own countries, and half of them were children. The issue remains prevalent because unaccompanied minors without definitive legal status are often subject to exploitation and abuse in the countries they arrive in. This is particularly significant when most of these children migrate in order to flee persecution or violence.
 
-Vivamus condimentum diam velit, eget luctus turpis consectetur non. Donec ornare interdum justo sit amet tempor. Vestibulum in fermentum eros, sit amet congue eros. Donec quam nibh, fringilla eget dignissim quis, vestibulum quis nisl. Ut libero ante, consequat ac pellentesque a, pellentesque et massa. Aliquam in ultrices ipsum. Vestibulum lectus sem, ultrices ac volutpat sed, luctus non libero. Pellentesque tortor dui, commodo eu enim a, sodales finibus justo. Ut mattis mauris neque, vitae suscipit purus convallis quis. Sed rutrum, orci tristique hendrerit pellentesque, libero mi suscipit arcu, nec aliquet ante elit et velit. Duis tincidunt feugiat ex eu posuere. Praesent non nisl dui.
+The issue of smuggling is also of pressing concern. For example, as of 2014 an estimated 75-80% of unaccompanied children arriving at the US-Mexico border had travelled with smugglers. Some of these smugglers are recognised to exploit unaccompanied children, selling them to human traffickers or forcing them into situations of forced labour and prostitution. Often children are left with smugglers by their parents as it is supposed by their parents that they’ll have a better chance of “making it” by themselves. Deporting children upon arrival in another country can perpetuate the issue of exploitation.
+
+## Stats to Consider
+
+- At least 200,000 unaccompanied and separated children were registered in about 80 countries in 2015 and 2016 (United Nations Children’s Fund UNICEF, 2017).
+
+- There are 170,000 unaccompanied children who have sought asylum in Europe in those years (United Nations Children’s Fund UNICEF, 2017).
+
+- 100,000 unaccompanied children were arrested at the Mexican-US border, and 19,000 sought asylum in other countries (United Nations Children’s Fund UNICEF, 2017).
+
+## Points to Consider:
+
+- What should we do with unaccompanied migrant children arriving at our borders
+
+- How can we stop unaccompanied migrant children getting separated from their parents or carers
+
+- How can we stop children from being exploited by smugglers, or in their countries of arrival
+
+- Should unaccompanied migrant children be granted asylum in their countries of arrival?
+
+- How can we support unaccompanied migrant children on arrival (alleviating trauma, finding shelter etc.)
+
+> All resolutions must be emailed to barclayn-y15@mgs.org before 23.59 on Friday 10th December. Please put your country and issue within the subject line. 

@@ -1,19 +1,14 @@
-# Awards!!
+# Awards
 
-### (shhh — make sure no-one's watching)
+At MGSMUN we will be offering the traditional awards, which consist of the following (for the combined performance of the delegations): 
 
----
+- Best Delegation
+- Highly Commended Delegation (x2)
+- Commended Delegation (x3)
 
-okay
+The following awards will also be given within each committee:
 
-_here's a secret_
-
----
-
-i'm selling the awards
-
-best delegate: 0.5 Bitcoin
-
-any other award: 0.25 Bitcoin
-
-contact me at 0123456789 if interested
+- Highly Commended Delegate (x2)
+- Commended Delegate (x3)
+- Young Delegate Award
+- Special Mentions

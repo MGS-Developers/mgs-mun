@@ -1,12 +1,31 @@
-# Human Rights Council Issue 1
-Nullam finibus elit est. Pellentesque finibus nunc vitae purus blandit dictum. Nam pretium, enim eget ultrices feugiat, quam mauris pretium odio, in molestie massa risus finibus nisl. Pellentesque auctor hendrerit urna nec maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec dictum molestie gravida. Curabitur eget imperdiet erat. Nam imperdiet, leo et ornare aliquet, nisl ex gravida ante, et gravida ligula nunc vel neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam a nisi vel ante tincidunt tincidunt vel id quam. Phasellus vitae feugiat felis. Donec venenatis felis vulputate odio hendrerit elementum. Ut nibh tortor, efficitur in sapien quis, vulputate mollis libero.
+# The Issue of Anti-Discrimination Education
+Before you consider the issue of racism and discrimination, take a quick guess at how many hate crimes are reported, on average, every day in England and Wales alone. If you said over 330, you’d be right. In 2020/21, over 124,000 hate crimes were reported in England and Wales alone.[^1] Why has this figure increased almost three-fold since 2012/13? Why is this figure still growing? Why is this not made more apparent to us? Many critics, such as those who work at The Black Curriculum, believe that anti-racism discrimination is key to tackling this issue.[^2]
 
-Curabitur in massa ex. Donec lacinia ultrices dui id ullamcorper. Suspendisse accumsan lacinia urna, a consequat felis porttitor ac. Nam eu interdum velit. Integer id mattis magna. Donec at diam elit. Proin fringilla risus sit amet augue consequat, at vestibulum mauris iaculis. Praesent vulputate, erat ut finibus pretium, augue massa blandit mauris, quis sodales sem risus efficitur urna.
+[^1]: https://www.gov.uk/government/statistics/hate-crime-england-and-wales-2020-to-2021
+[^2]: https://theblackcurriculum.com/
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris id metus dui. Aliquam tincidunt nunc ac consequat vulputate. Suspendisse id diam non velit scelerisque dictum. Pellentesque egestas in erat nec placerat. Morbi rutrum, magna id sagittis sagittis, metus lacus varius ipsum, ut ultricies lorem sem ut leo. Donec a justo justo. Vivamus rhoncus sem euismod, rhoncus lacus dictum, placerat arcu. Nullam condimentum dui a dui vestibulum, et aliquet libero aliquam.
+Yet, changing the curriculum is not as easy as many might think. A lengthy process including convincing the heads of your Department for Education (or equivalent), as well as aligning the goals with those of the teachers’ unions, can not only stop it from being actualised, but also – even if the changed go through – they may be nowhere near as effective and meaningful as they should be. It should also be noted that there may be a lack of representation in member states’ Departments for Education (or equivalent), making this issue perhaps also one of systemic inequality.
 
-Cras hendrerit sapien accumsan, molestie justo et, elementum odio. Suspendisse aliquet malesuada ipsum vel tempus. Suspendisse a arcu nisi. Sed imperdiet erat pellentesque erat eleifend, nec efficitur est molestie. Nulla ullamcorper suscipit mauris eget pharetra. Nullam tincidunt ut turpis quis tincidunt. Quisque ac ex libero. Ut scelerisque nisl ac mauris ultricies mollis.
+There is also an argument that Anti-Discrimination Education can come from the ground up, through the children in schools, thus side-stepping the issue of needing a large-scale reform of the curriculum. Clubs, societies, and talks within school give young people an opportunity to voice their opinions. Yet how effective are these in actually teaching everyone within school? Perhaps teachers also need to be taught – every year we hear horrifying stories of teachers racially abusing students.
 
-Morbi interdum ipsum eu dictum egestas. Sed auctor massa ante, et commodo enim pharetra sed. Cras euismod pellentesque consequat. Phasellus arcu turpis, pulvinar dapibus lacinia sed, ultricies quis ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce purus quam, sollicitudin sit amet malesuada quis, elementum id dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec eu felis vel diam sollicitudin rhoncus in sodales nulla. Nullam laoreet sit amet enim sed consequat. Duis nunc dui, consequat id dui quis, faucibus tincidunt eros.
+Ultimately, we need to think about the best, most effective way of exposing young people to the realities and destructive nature of learnt or acquired discriminatory behaviour. Research your member states’ positions on the matter and be prepared to debate on the efficacy of changes actualised (if any), your Department for Education’s (or equivalent) nature, and the interpretation of human rights in regard to educational settings.
 
+## Points to Consider:
 
+- What is the education system like in your member state right now?;
+- Can we implement a ‘Global Curriculum’ or expand ‘Human Rights Friendly Schools’?;
+- To what extent is this a Human Rights concern?;
+- What specific changes would you make to the education system(s)?;
+- What can the UN do to help/support member states?; 
+- What additional issues would LECs face? 
+
+## Further Research
+[https://www.amnesty.org/en/human-rights-education/human-rights-friendly-schools/](https://www.amnesty.org/en/human-rights-education/human-rights-friendly-schools/)
+
+[https://www.theguardian.com/education/2021/mar/26/schools-england-anti-racist-curriculum](https://www.theguardian.com/education/2021/mar/26/schools-england-anti-racist-curriculum)
+
+[https://wheatoncollege.edu/academics/special-projects-initiatives/center-for-collaborative-teaching-and-learning/anti-racist-educator/](https://wheatoncollege.edu/academics/special-projects-initiatives/center-for-collaborative-teaching-and-learning/anti-racist-educator/)
+
+[https://www.nais.org/magazine/independent-school/summer-2006/why-curriculum-change-is-difficult-and-necessary/](https://www.nais.org/magazine/independent-school/summer-2006/why-curriculum-change-is-difficult-and-necessary/) (a longer read for those who are interested!)
+
+> All resolutions must be emailed to sandallo-y15@mgs.org before 23.59 on Thursday 9th December. Please put your country and issue in the subject line. 

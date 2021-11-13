@@ -20,3 +20,5 @@ The dress code for MGSMUN 2021 is formal.
 - Tracksuits
 
 ![recommended attire for top delegates](https://images.halloweencostumes.co.uk/products/22233/1-1/adult-deluxe-frog-costume.jpg)
+
+^ highly recommended outfit

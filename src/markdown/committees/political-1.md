@@ -1,10 +1,29 @@
-# Political Committee Issue 1
-Donec aliquet, enim in sollicitudin vehicula, sapien arcu malesuada mi, eu suscipit est nulla ac sem. Phasellus blandit lacus at tellus vehicula, eu dapibus ipsum sodales. Ut id est pellentesque, euismod erat at, pulvinar tortor. Ut finibus augue ac fringilla porta. Vestibulum dui enim, hendrerit id euismod sed, suscipit sed tellus. Morbi volutpat nisl ipsum, et rhoncus ligula viverra a. Fusce consequat elit id purus congue cursus. Nulla facilisi. Aenean dictum quis odio vel tincidunt. Phasellus est nisi, congue id scelerisque et, pretium ac nisl. Quisque erat lorem, tempor sed massa at, dapibus pulvinar justo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut non semper purus. Quisque eleifend metus nibh, scelerisque ornare elit egestas et.
+# The Issue of Territorial Claims in the South China Sea
+In the South China sea, territorial claims from Vietnam, Brunei, Malaysia, the Philippines and China all overlap. One of the main reasons that these claims conflict with each other is due to all five nations claiming different islands in the mostly-uninhabited Spratly Island archipelago. In and around this archipelago, China has been building islands, such as Mischief Reef, and using them to bolster its territorial claims. The area that China claims, known as the nine-dashed line, pre-dates the UN and any of the rules subsequently created regarding territorial claims in the sea. 
 
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Phasellus elementum quam in sollicitudin aliquam. Fusce pharetra eros ac feugiat commodo. Curabitur a tellus dolor. Ut vel vestibulum dui. Phasellus ut nunc in elit mollis fermentum sit amet at velit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque consectetur tincidunt tellus, ac vulputate nisl efficitur finibus. Praesent a sem facilisis, sodales nisi et, pharetra turpis.
+![Fig A: Map showing the rough territorial claims of key claimants in the South China Sea](https://firebasestorage.googleapis.com/v0/b/mgs-mun.appspot.com/o/MarkdownImages%2FGetImage.png?alt=media&token=ab432454-b886-4855-b557-20c8a6e1b6f5)
 
-Aenean porttitor tellus nibh, a tempor ex bibendum vel. Integer sapien risus, gravida mattis leo volutpat, luctus mattis quam. Sed id ultrices est. Etiam tempor est eget posuere consequat. Mauris enim mi, rhoncus eu tempor et, cursus id turpis. Proin gravida et erat a blandit. Integer nisl augue, vestibulum ac porta eu, vulputate non enim. Duis tincidunt laoreet mattis. Donec eget diam tempus, vehicula ligula porta, mollis massa. Etiam maximus ipsum et purus tempus consequat. Aliquam congue maximus lacinia. Proin bibendum semper faucibus. Phasellus faucibus, lectus eu fermentum vestibulum, lectus sapien tempor erat, at pellentesque ligula ligula sit amet lectus. Aenean molestie mollis finibus. Aenean maximus urna non nisl accumsan dignissim. Ut aliquet consequat ipsum viverra dapibus.
+> Fig A: Map showing the rough territorial claims of key claimants in the South China Sea
 
-Mauris at urna porta, porttitor arcu et, hendrerit massa. Maecenas fermentum odio vel mi congue vestibulum. Ut massa nisi, mattis ac leo vel, interdum pellentesque ligula. Nam eros sapien, lacinia id euismod non, euismod eget diam. Nam auctor at urna in accumsan. Donec tempor, dui quis mattis blandit, nulla lorem consectetur velit, lacinia volutpat arcu urna sit amet nunc. Etiam ut vulputate libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+As this is an issue that only pertains to a few nations in a specific region of the world, it may be unclear whether the UN should weigh in on the claims and mediate any discussions/decisions taken regarding them. Although outside interference may be seen as powerful nations supporting their allies by lobbying for them to have a greater claim to the area, but without any influence from the UN it could be possible for a larger nation to strong-arm a smaller nation out of its claim. China’s construction of gun turrets and airstrips in the Spratly Island archipelago are seen by many as strong-arming.
 
-Duis ex enim, pellentesque lacinia massa at, molestie mattis urna. Nulla euismod lacus eu eros pharetra, vel mollis quam mattis. Etiam ultrices leo sed lobortis rhoncus. Duis nec tellus a ante condimentum pellentesque quis in enim. Aenean varius, ligula eget varius dapibus, nulla diam blandit odio, in ultricies nisi sem id lorem. In hac habitasse platea dictumst. Aliquam id massa nisi. Curabitur consectetur ultrices lectus sit amet fermentum. Fusce quis mauris velit. Cras ut dignissim risus. In ac ex tincidunt, consectetur lorem ut, dapibus purus. Nam at nulla luctus, dapibus nulla nec, interdum risus.
+Whilst some claims may appear unrealistically extensive, nations like China see them as absolutely necessary for national security. In the event of a future war, China, a superpower with only a single coastline onto an ocean bordered by South Korea, Japan, the Philippines, the Indochinese peninsula and Borneo, could be realistically blockaded by a naval coalition, which would have a dramatic impact on its largely export-based economy. Existing UN agreements on the extent of territorial claims offshore (Article 3, UN Convention on the Law of the Sea) means that all member states can establish claims up to twelve nautical miles offshore from their land territories, but it may be necessary for the UN revise these guidelines given the significant impact of global trade on the economies of member states, and national security concerns.
+
+## Points to Consider
+
+- How should the UN deal with member states claiming artificial islands as their territory?
+- Should the UN consider claims to territory based on historical events (e.g. Should Taiwan (by some accounts the legitimate Chinese government) be entitled to the same claim as the People's Republic of China)?
+- Should the UN attempt to mediate solutions to overlapping territorial claims, or should such issues be left to the member states making the claims?
+- Should the UN change the distance offshore up to which nations can make territorial claims?
+
+## Further Research
+
+[https://www.cfr.org/global-conflict-tracker/conflict/territorial-disputes-south-china-sea](https://www.cfr.org/global-conflict-tracker/conflict/territorial-disputes-south-china-sea)
+
+[https://en.wikipedia.org/wiki/Territorial_disputes_in_the_South_China_Sea](https://en.wikipedia.org/wiki/Territorial_disputes_in_the_South_China_Sea)
+
+[https://www.xeneta.com/blog/south-china-sea-dispute](https://www.xeneta.com/blog/south-china-sea-dispute)
+
+[https://www.lowyinstitute.org/issues/south-china-sea](https://www.lowyinstitute.org/issues/south-china-sea) 
+
+> All resolutions must be emailed to carolanh-y15@mgs.org before 23.59 on Friday 10th December. Please put your country and issue within the subject line.

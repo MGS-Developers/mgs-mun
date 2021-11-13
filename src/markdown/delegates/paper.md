@@ -1,5 +1,5 @@
 # Notepaper
 
-any paper used **MUST NOT** contain wood in case other delegates, advisors, or staff have wood allergies.
+Notepaper is used to pass around messages between delegates within committees and across the conference. It allows for you to communicate with other delegates during debate to form alliances, pass on important messages or share valuable information.
 
-paper must be octagonal
+As per usual, each delegation will bring their own custom designed paper to suit the country they are representing. It can be artful, funny or just creative. 

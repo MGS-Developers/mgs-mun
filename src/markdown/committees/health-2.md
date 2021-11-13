@@ -1,11 +1,27 @@
-# Health Committee Issue 2
-Integer mattis, sapien ut pharetra convallis, augue magna rutrum augue, in dictum nibh urna non nibh. Cras eu orci ut quam eleifend maximus. Phasellus luctus orci ut augue egestas, vitae sollicitudin dui ullamcorper. Sed accumsan nisl neque, in mollis est cursus a. Sed malesuada ac mauris eu iaculis. Proin faucibus ante nec quam sollicitudin iaculis. Maecenas id tincidunt est. In et congue lorem, sit amet placerat enim. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque consequat maximus turpis in venenatis. Morbi vitae feugiat tellus. Nulla ultrices, urna id ornare aliquam, mi dui malesuada augue, et vehicula magna dui ac leo.
+# The Issue of Creating an International Pandemic Treaty
+The COVID-19 pandemic is a global challenge. No single government or institution can address the threat of future pandemics alone. The main goal of a new international treaty for pandemic preparedness and response would be to foster a comprehensive, multi-sectoral approach to strengthen national, regional and global capacities and resilience to future pandemics. This is an opportunity for the world to come together as a global community for peaceful cooperation that extends beyond this crisis.
 
-Cras malesuada quis sapien id eleifend. Donec porta laoreet consequat. Vivamus lobortis eu ligula sollicitudin pellentesque. Nullam sed odio risus. Praesent eget leo pharetra, convallis turpis vel, aliquet tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris iaculis posuere urna, sed euismod erat gravida vitae. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus luctus pulvinar odio eu euismod.
+The proposal for a treaty is guided by a spirit of collective solidarity, anchored in the principles of fairness, inclusiveness and transparency. Neither individual governments nor the global community can entirely prevent pandemics. But the international community needs to be much better prepared and better aligned in responding to possible future pandemics across the entire cycle of detection, alarm and response. The treaty should set out the objectives and fundamental principles in order to structure the necessary collective action to fight pandemics.
 
-Ut ac mi lacinia, iaculis ex in, sodales est. Nulla eu enim enim. Ut condimentum lectus eget felis tristique, sit amet varius lacus rhoncus. Proin tellus nisl, posuere sed eleifend et, commodo ut elit. Praesent vel sodales nibh, ut commodo ligula. In eget pulvinar lectus, in vehicula tellus. Sed fringilla libero vel ante commodo vestibulum. Nam in scelerisque sapien. Quisque sagittis, ipsum sed semper feugiat, risus turpis ullamcorper purus, at vehicula lectus diam ut libero. Curabitur nunc sapien, malesuada ac lorem sed, tincidunt posuere augue. Praesent dolor turpis, aliquam vitae dolor vel, sagittis auctor lacus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam eu aliquet turpis, non dictum turpis. Sed nec iaculis dui, eu ultricies ante. Maecenas ut congue dolor, at auctor nulla.
+An international treaty on pandemics would support and focus on:
 
-Fusce turpis ex, finibus in odio id, consectetur imperdiet risus. Integer sed fermentum felis. Vestibulum et fermentum risus. Suspendisse eleifend sollicitudin lobortis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum eget metus non sapien pharetra posuere at eu erat. Curabitur eu dolor ipsum. Etiam suscipit tempus arcu eget dapibus. Suspendisse sed fringilla erat. Phasellus ultrices tincidunt nibh eu ultrices. Aenean nibh libero, facilisis eget diam in, gravida interdum metus. Integer nec turpis nisl.
+- early detection and prevention of pandemics
 
-Vestibulum aliquet sodales tempor. Quisque lobortis, lorem ut faucibus ultrices, leo dui posuere augue, a elementum lacus libero nec diam. Donec vitae ipsum convallis, gravida erat ac, finibus mauris. Aliquam non ante ut tellus blandit feugiat ut at felis. In pretium dui nec nibh sagittis laoreet. Nulla ut lectus eget nibh venenatis bibendum. Suspendisse a consequat ipsum. Suspendisse potenti. Aliquam augue augue, placerat quis felis sit amet, mollis condimentum lacus. Vivamus iaculis, lorem sit amet scelerisque venenatis, purus mi tempus lorem, eu molestie dui lectus vel orci. Cras vehicula cursus porta.
+- resilience to future pandemics
 
+- response to any future pandemics, in particular by ensuring universal and equitable access to medical solutions, such as vaccines, medicines and diagnostics
+
+- a stronger international health framework with the WHO as the coordinating authority on global health matters
+
+- the "One Health" approach, connecting the health of humans, animals and our planet
+
+More specifically, such a treaty can enhance international cooperation in a number of priority areas, such as surveillance, alerts and response, but also in general trust in the international health system.
+
+## Points to Consider
+
+- What measures can we take to ensure a faster response time to future pandemics?
+- How can we promote co-ordination between member states to fight pandemics?
+- How can we adopt the “One Health” approach into the prevention of future pandemics?
+- How can we ensure that the effects that pandemics have on LEDCs are less severe, for example lack of access to vaccines and limited health services? 
+
+> All resolutions must be emailed to mohammedi-y15@mgs.org before 23.59 on Friday 10th December. Please put your country and issue within the subject line.

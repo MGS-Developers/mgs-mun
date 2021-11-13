@@ -6,6 +6,7 @@ import { Column, Row } from '../../bits/Row/Row'
 import CommitteesSidebar from '../../components/CommitteesSidebar/CommitteesSidebar'
 import rehypeRaw from 'rehype-raw'
 import { Link } from 'react-router-dom';
+import remarkFootnotes from 'remark-footnotes';
 
 export interface CommitteeConfig {
     name: string;
@@ -61,7 +62,10 @@ export default function MarkdownPage(
 
     const renderedMarkdown = useMemo(() => {
         if (markdown) {
-            return <ReactMarkdown rehypePlugins={[rehypeRaw]}>
+            return <ReactMarkdown
+                rehypePlugins={[rehypeRaw]}
+                plugins={[remarkFootnotes]}
+            >
                 {markdown}
             </ReactMarkdown>
         } else if (timeElapsed) {
