@@ -11,5 +11,5 @@ The following awards will also be given within each committee:
 - Outstanding Delegate
 - Highly Commended Delegate (x2)
 - Commended Delegate (x3)
-- Young Delegate Award
+- Best Young Delegate
 - Special Mentions
