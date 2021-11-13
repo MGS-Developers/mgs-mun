@@ -1,5 +1,5 @@
 import styles from './Markdown.module.scss';
-import { useEffect, useMemo, useState } from 'react'
+import { useCallback, useEffect, useMemo, useState } from 'react'
 import ReactMarkdown from 'react-markdown';
 import watermarkImage from '../../assets/png_logos/MGSMUN logo watermark.png';
 import { Column, Row } from '../../bits/Row/Row'
@@ -19,11 +19,11 @@ export interface CommitteeConfig {
 
 interface Props {
     source?: string;
-    watermark?: boolean;
+    briefingPaper?: boolean;
     committee?: CommitteeConfig;
 }
 export default function MarkdownPage(
-    {source, watermark, committee}: Props
+    {source, briefingPaper, committee}: Props
 ) {
     const [markdown, setMarkdown] = useState<string>();
     useEffect(() => {
@@ -35,6 +35,18 @@ export default function MarkdownPage(
             const text = await fetch(result.default).then(e => e.text());
             setMarkdown(text);
         })()
+    }, [source]);
+
+    const [timeElapsed, setTimeElapsed] = useState(false);
+    useEffect(() => {
+        setTimeElapsed(false);
+        const id = setTimeout(() => {
+            setTimeElapsed(true);
+        }, 1000);
+
+        return () => {
+            clearTimeout(id);
+        }
     }, [source]);
 
     const committeeColorStyle = useMemo(() => {
@@ -52,15 +64,23 @@ export default function MarkdownPage(
             return <ReactMarkdown rehypePlugins={[rehypeRaw]}>
                 {markdown}
             </ReactMarkdown>
+        } else if (timeElapsed) {
+            return <h1>
+                Loading...
+            </h1>
         } else {
             return <></>
         }
-    }, [markdown]);
+    }, [markdown, timeElapsed]);
+
+    const print = useCallback(() => {
+        window.print();
+    }, []);
 
     return <div
-        className={`${styles.fluidContainer} ${watermark ? styles.watermark : ''}`}
+        className={`${styles.fluidContainer} ${briefingPaper ? styles.watermark : ''}`}
         style={{
-            backgroundImage: watermark ? `url("${watermarkImage}")` : '',
+            backgroundImage: briefingPaper ? `url("${watermarkImage}")` : '',
         }}
     >
         {committee && <>
@@ -89,7 +109,7 @@ export default function MarkdownPage(
                     <h2
                         style={committeeColorStyle}
                     >
-                        Issues (briefing papers linked)
+                        Issues <span className={styles.committeeBriefingPaperLinked}>(briefing papers linked)</span>
                     </h2>
                     <ul>
                         {committee.issues.map((issue, index) => <li
@@ -116,6 +136,15 @@ export default function MarkdownPage(
                 </Column>
             </Row>
         </>}
+
+        {briefingPaper && <p>
+            <button
+                className={styles.briefingPaperButton}
+                onClick={print}
+            >
+                Print briefing paper
+            </button>
+        </p>}
 
         {!committee && renderedMarkdown}
     </div>

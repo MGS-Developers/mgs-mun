@@ -22,11 +22,11 @@ const CommitteeList = lazy(() => import('../pages/CommitteeList/CommitteeList'))
 export interface RouteProps {
     component?: FunctionComponent<{
         source?: string
-        watermark?: boolean
+        briefingPaper?: boolean
         committee?: CommitteeConfig;
     }>;
     source?: string;
-    watermark?: boolean;
+    briefingPaper?: boolean;
     committee?: Omit<CommitteeConfig, "name">;
 }
 
@@ -71,7 +71,7 @@ export const routes: NavbarRouteItem[] = [
                 component: MarkdownPage,
                 source: 'committees/security-council-1',
                 hide: true,
-                watermark: true,
+                briefingPaper: true,
             },
             {
                 label: 'SC Issue 2',
@@ -79,7 +79,7 @@ export const routes: NavbarRouteItem[] = [
                 component: MarkdownPage,
                 source: 'committees/security-council-2',
                 hide: true,
-                watermark: true,
+                briefingPaper: true,
             },
 
             {
@@ -95,7 +95,7 @@ export const routes: NavbarRouteItem[] = [
                 component: MarkdownPage,
                 source: 'committees/hr-council-1',
                 hide: true,
-                watermark: true,
+                briefingPaper: true,
             },
             {
                 label: 'HRCl Issue 2',
@@ -103,7 +103,7 @@ export const routes: NavbarRouteItem[] = [
                 component: MarkdownPage,
                 source: 'committees/hr-council-2',
                 hide: true,
-                watermark: true,
+                briefingPaper: true,
             },
 
             {
@@ -119,7 +119,7 @@ export const routes: NavbarRouteItem[] = [
                 component: MarkdownPage,
                 source: 'committees/hr-committee-1',
                 hide: true,
-                watermark: true,
+                briefingPaper: true,
             },
             {
                 label: 'HRCo Issue 2',
@@ -127,7 +127,7 @@ export const routes: NavbarRouteItem[] = [
                 component: MarkdownPage,
                 source: 'committees/hr-committee-2',
                 hide: true,
-                watermark: true,
+                briefingPaper: true,
             },
 
             {
@@ -143,7 +143,7 @@ export const routes: NavbarRouteItem[] = [
                 component: MarkdownPage,
                 source: 'committees/tech-speccom-1',
                 hide: true,
-                watermark: true,
+                briefingPaper: true,
             },
             {
                 label: 'Spec Issue 2',
@@ -151,7 +151,7 @@ export const routes: NavbarRouteItem[] = [
                 component: MarkdownPage,
                 source: 'committees/tech-speccom-2',
                 hide: true,
-                watermark: true,
+                briefingPaper: true,
             },
 
             {
@@ -167,7 +167,7 @@ export const routes: NavbarRouteItem[] = [
                 component: MarkdownPage,
                 source: 'committees/political-1',
                 hide: true,
-                watermark: true,
+                briefingPaper: true,
             },
             {
                 label: 'Pol Issue 2',
@@ -175,7 +175,7 @@ export const routes: NavbarRouteItem[] = [
                 component: MarkdownPage,
                 source: 'committees/political-2',
                 hide: true,
-                watermark: true,
+                briefingPaper: true,
             },
 
             {
@@ -191,7 +191,7 @@ export const routes: NavbarRouteItem[] = [
                 component: MarkdownPage,
                 source: 'committees/ecofin-1',
                 hide: true,
-                watermark: true,
+                briefingPaper: true,
             },
             {
                 label: 'Eco Issue 2',
@@ -199,7 +199,7 @@ export const routes: NavbarRouteItem[] = [
                 component: MarkdownPage,
                 source: 'committees/ecofin-2',
                 hide: true,
-                watermark: true,
+                briefingPaper: true,
             },
 
             {
@@ -215,7 +215,7 @@ export const routes: NavbarRouteItem[] = [
                 component: MarkdownPage,
                 source: 'committees/disec-1',
                 hide: true,
-                watermark: true,
+                briefingPaper: true,
             },
             {
                 label: 'DC Issue 2',
@@ -223,7 +223,7 @@ export const routes: NavbarRouteItem[] = [
                 component: MarkdownPage,
                 source: 'committees/disec-2',
                 hide: true,
-                watermark: true,
+                briefingPaper: true,
             },
 
             {
@@ -239,7 +239,7 @@ export const routes: NavbarRouteItem[] = [
                 component: MarkdownPage,
                 source: 'committees/health-1',
                 hide: true,
-                watermark: true,
+                briefingPaper: true,
             },
             {
                 label: 'H Issue 2',
@@ -247,7 +247,7 @@ export const routes: NavbarRouteItem[] = [
                 component: MarkdownPage,
                 source: 'committees/health-2',
                 hide: true,
-                watermark: true,
+                briefingPaper: true,
             },
 
             {
@@ -263,7 +263,7 @@ export const routes: NavbarRouteItem[] = [
                 component: MarkdownPage,
                 source: 'committees/envirosci-1',
                 hide: true,
-                watermark: true,
+                briefingPaper: true,
             },
             {
                 label: 'H Issue 2',
@@ -271,7 +271,7 @@ export const routes: NavbarRouteItem[] = [
                 component: MarkdownPage,
                 source: 'committees/envirosci-2',
                 hide: true,
-                watermark: true,
+                briefingPaper: true,
             },
         ],
     },

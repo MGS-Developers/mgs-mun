@@ -1,6 +1,7 @@
 @import "../../styles/importables";
 
 .footer {
+  @include no-print;
   width: 100%;
   height: $footer-height;
   background: #b1cbf1;

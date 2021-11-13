@@ -64,7 +64,29 @@
     font-size: 1.05rem;
     &:first-of-type {
       margin-top: 15px;
-      font-weight: bold;
     }
+    &:nth-of-type(2) {
+      @include poppins(200);
+    }
+  }
+
+  .committeeBriefingPaperLinked {
+    @include no-print;
+  }
+
+  .briefingPaperButton {
+    @include poppins;
+    @include link;
+    font-size: 1rem;
+
+    border: none;
+    background: none;
+    padding: 0;
+    outline: none;
+    text-align: left;
+
+    cursor: pointer;
+
+    @include no-print;
   }
 }

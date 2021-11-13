@@ -1,6 +1,6 @@
 import { NavLink } from 'react-router-dom'
 import styles from './Navbar.module.scss';
-import { useEffect, useState } from 'react'
+import { useEffect, useState, MouseEvent } from 'react'
 import { RouteProps } from '../../data/routes'
 
 interface Sub {
@@ -31,6 +31,8 @@ export interface NavbarRouteItem extends RouteProps {
 export default function NavbarItem(
     {label, href, subs}: NavbarItemProps
 ) {
+    const parentLinkId = `nav_parent_link_${label}`;
+
     const [showSubs, setShowSubs] = useState(false);
     const [parentHovered, setParentHovered] = useState(false);
     const [subHovered, setSubHovered] = useState(false);
@@ -38,13 +40,28 @@ export default function NavbarItem(
         setParentHovered(true);
         setShowSubs(true);
     };
-    const parentLeave = () => {
+    const parentLeave = (e: MouseEvent) => {
         setParentHovered(false);
+
+        const target = e.relatedTarget;
+        if (target instanceof HTMLElement &&
+            (
+                target.className.includes(styles.subs)
+                || target.className.includes(styles.subLink)
+            )
+        ) {
+            return
+        }
+        setSubHovered(false);
     }
     const subEnter = () => {
         setSubHovered(true);
     }
-    const subLeave = () => {
+    const subLeave = (e: MouseEvent) => {
+        const target = e.relatedTarget;
+        if (target instanceof HTMLElement && target.id === parentLinkId) {
+            return
+        }
         setSubHovered(false);
     }
 
@@ -67,12 +84,14 @@ export default function NavbarItem(
                     activeClassName={styles.linkActive}
                     onMouseOver={show}
                     onMouseLeave={parentLeave}
+                    id={parentLinkId}
                 >
                     {label}
                 </NavLink>
             </>}
             {!href && <span
                 className={styles.nonLink}
+                id={parentLinkId}
                 onMouseOver={show}
                 onMouseLeave={parentLeave}
             >

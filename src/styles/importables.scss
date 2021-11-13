@@ -12,6 +12,15 @@ $footer-color: #96baef;
   @media only screen and (max-width: 768px) {
     padding: 10px 15px;
   }
+  @media only print {
+    padding: 15px;
+  }
+}
+
+@mixin no-print() {
+  @media only print {
+    display: none;
+  }
 }
 
 @mixin link() {

@@ -44,7 +44,7 @@ function App() {
                             >
                                 <Component
                                     source={route.source}
-                                    watermark={route.watermark}
+                                    briefingPaper={route.briefingPaper}
                                     committee={route.committee && {
                                         ...route.committee,
                                         name: route.label,
