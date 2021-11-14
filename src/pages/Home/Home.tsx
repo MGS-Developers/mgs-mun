@@ -21,7 +21,13 @@ export default function Home() {
                         </a>.
                     </p>
                     <p>
-                        The Secretary-General for MGSMUN 2021 is Oliver Sandall and our Deputy Secretary-Generals are Euan Aspin and Zach Foster. On behalf of everyone at MGS, we hope that you enjoy our conference.
+                        The Secretary-General for MGSMUN 2021 is Oliver Sandall and our Deputy Secretary-Generals are Euan Aspin and Zach Foster.
+                        On behalf of everyone at MGS, we hope that you enjoy our conference.
+                    </p>
+
+                    <p>
+                        {/* TODO: reconsider this theme name */}
+                        The theme of this year's conference is <strong>Tackling Political Apathy</strong>.
                     </p>
 
                     <Countdown />
