@@ -19,4 +19,4 @@ This in undoubtedly a multifaceted issue which brings up many questions and alte
 
 - What agreements, which all sides would agree too, can be reached?
 
-> All resolutions must be emailed to hill-aspinallp-y16@mgs.org before 23.59 on Friday 10th December. Please put your country and issue within the subject line.
+> All resolutions must be emailed to chadwickl-y16@mgs.org before 23.59 on Friday 10th December. Please put your country and issue within the subject line.

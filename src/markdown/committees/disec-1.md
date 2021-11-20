@@ -29,4 +29,4 @@ Secondly, there is the issue of a pre-existing deal between France and Australia
 
 - Was it right for Australia to pull out of the deal with France?
 
-> All resolutions must be emailed to hill-aspinallp-y16@mgs.org before 23.59 on Friday 10th December. Please put your country and issue within the subject line.
+> All resolutions must be emailed to chadwickl-y16@mgs.org before 23.59 on Friday 10th December. Please put your country and issue within the subject line.

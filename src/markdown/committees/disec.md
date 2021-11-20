@@ -6,4 +6,4 @@ The second issue is that of the use of drones in Afghan airspace and further aer
 
 Please take time in researching your issues thoroughly, focus on your countries positions and involvement in these issues, and it is recommended you produce a resolution on one of these issues. Regardless of your prior experience in Model United Nations, we look forward to seeing you at the conference in December.
 
-> All resolutions must be emailed to hill-aspinallp-y16@mgs.org before 23.59 on Friday 10th December. Please put your country and issue within the subject line.
+> All resolutions must be emailed to chadwickl-y16@mgs.org before 23.59 on Friday 10th December. Please put your country and issue within the subject line.
