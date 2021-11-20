@@ -23,4 +23,4 @@ From the UN website: Families living in poverty systematically occupy the least 
 
 - Consider the importance of education in context of the issue
 
-All resolutions must be emailed to barclayn-y15@mgs.org before 23.59 on Friday 10th December. Please put your country and issue within the subject line. 
+All resolutions must be emailed to barclayn-y16@mgs.org before 23.59 on Friday 10th December. Please put your country and issue within the subject line. 

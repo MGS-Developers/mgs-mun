@@ -78,10 +78,11 @@ export default function NavbarItem(
         <p className={styles.linkText}>
             {href && <>
                 <NavLink
-                    exact
                     to={href}
-                    className={styles.link}
-                    activeClassName={styles.linkActive}
+                    className={({isActive}) => isActive
+                        ? `${styles.link} ${styles.linkActive}`
+                        : styles.link
+                    }
                     onMouseOver={show}
                     onMouseLeave={parentLeave}
                     id={parentLinkId}
@@ -106,7 +107,6 @@ export default function NavbarItem(
         >
             {subs?.map(sub => <NavLink
                 key={sub.href}
-                exact
                 to={sub.href}
                 className={styles.subLink}
             >

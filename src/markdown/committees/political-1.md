@@ -26,4 +26,4 @@ Whilst some claims may appear unrealistically extensive, nations like China see 
 
 [https://www.lowyinstitute.org/issues/south-china-sea](https://www.lowyinstitute.org/issues/south-china-sea) 
 
-> All resolutions must be emailed to carolanh-y15@mgs.org before 23.59 on Friday 10th December. Please put your country and issue within the subject line.
+> All resolutions must be emailed to hill-aspinallp-y16@mgs.org before 23:59 on Friday 10th December. Please put your country and issue within the subject line. 

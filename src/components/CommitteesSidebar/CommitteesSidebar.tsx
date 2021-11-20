@@ -34,7 +34,7 @@ export default function CommitteesSidebar(
 
         {committees.map(committee => <NavLink
             to={`/committees/${committee.link}`}
-            activeClassName={styles.linkActive}
+            className={({isActive}) => isActive ? styles.linkActive : ''}
             style={{
                 color: backgroundColorBase,
             }}

@@ -1,5 +1,5 @@
 import React, { Suspense, useMemo } from 'react'
-import { BrowserRouter, Route, Switch } from 'react-router-dom'
+import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Navbar from './components/Navbar/Navbar'
 import { NavbarRouteItem } from './components/Navbar/NavbarItem'
 import Footer from './components/Footer/Footer'
@@ -32,27 +32,25 @@ function App() {
 
             <section className={styles.page}>
                 <Suspense fallback={<></>}>
-                    <Switch>
+                    <Routes>
                         { flattenedRoutes.map(route => {
                             const Component = route.component;
-                            if (!Component) return <React.Fragment key={route.label}/>;
+                            if (!Component || !route.href) return <React.Fragment key={route.label}/>;
 
                             return <Route
                                 key={route.label}
                                 path={route.href}
-                                exact
-                            >
-                                <Component
+                                element={<Component
                                     source={route.source}
                                     briefingPaper={route.briefingPaper}
                                     committee={route.committee && {
                                         ...route.committee,
                                         name: route.label,
                                     }}
-                                />
-                            </Route>
+                                />}
+                            />
                         })}
-                    </Switch>
+                    </Routes>
                 </Suspense>
             </section>
 

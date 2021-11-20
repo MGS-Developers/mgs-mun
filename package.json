@@ -5,12 +5,12 @@
   "dependencies": {
     "blurhash": "^1.1.4",
     "chroma-js": "^2.1.2",
-    "firebase": "^9.1.1",
-    "luxon": "^2.0.2",
+    "firebase": "^9.5.0",
+    "luxon": "^2.1.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-markdown": "^7.0.1",
-    "react-router-dom": "^5.3.0",
+    "react-markdown": "^7.1.0",
+    "react-router-dom": "^6.0.2",
     "rehype-raw": "^6.1.0",
     "remark-footnotes": "^4.0.1",
     "web-vitals": "^1.0.1"
@@ -22,7 +22,6 @@
     "@types/node": "^12.0.0",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
-    "@types/react-router-dom": "^5.3.0",
     "react-scripts": "4.0.3",
     "sass": "^1.42.1",
     "typescript": "^4.1.2"

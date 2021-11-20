@@ -35,4 +35,4 @@ These are to name just a few of the controversies and problems that have surroun
 
 [Cryptocurrency hacks and fraud are on track for a record number of incidents in 2021, data shows (businessinsider.com)](https://markets.businessinsider.com/news/currencies/cryptocurrency-hacks-fraud-cases-record-bitcoin-ethereum-wallets-breaches-defi-2021-8)
 
-> All resolutions must be emailed to aspine-y15@mgs.org before 23.59 on Thursday 9th December. Please put your country and issue within the subject line.
+> All resolutions must be emailed to aspine-y15@mgs.org before 23:59 on Friday 10th December. Please put your country and issue within the subject line.

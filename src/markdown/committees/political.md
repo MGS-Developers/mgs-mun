@@ -6,4 +6,4 @@ Foreign interference in elections is something that is not too uncommon to hear 
 
 We strongly encourage you to research your nation’s views on the issues. A great way to showcase your knowledge and creativity would be to submit a resolution, and even if it doesn't get picked, it will be considered when deciding which delegates will win awards. No matter how much experience you have, we hope you enjoy our conference, and look forward to seeing you there on December 11th.
 
-> All resolutions must be emailed to carolanh-y15@mgs.org before 23.59 on Friday 10th December. Please put your country and issue within the subject line. 
+> All resolutions must be emailed to hill-aspinallp-y16@mgs.org before 23:59 on Friday 10th December. Please put your country and issue within the subject line. 

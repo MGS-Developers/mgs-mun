@@ -31,4 +31,4 @@ The issue of smuggling is also of pressing concern. For example, as of 2014 an e
 
 - How can we support unaccompanied migrant children on arrival (alleviating trauma, finding shelter etc.)
 
-> All resolutions must be emailed to barclayn-y15@mgs.org before 23.59 on Friday 10th December. Please put your country and issue within the subject line. 
+> All resolutions must be emailed to barclayn-y16@mgs.org before 23.59 on Friday 10th December. Please put your country and issue within the subject line. 

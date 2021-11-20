@@ -39,4 +39,4 @@ This issue remains incredibly challenging to address and thus there has been lim
 
 [Meaningful Technology Transfer to the LDCs (ethz.ch)](https://www.files.ethz.ch/isn/138434/technology-transfer-to-the-ldcs.pdf)
 
-> All resolutions must be emailed to aspine-y15@mgs.org before 23.59 on Thursday 9th December. Please put your country and issue within the subject line. 
+> All resolutions must be emailed to aspine-y15@mgs.org before 23:59 on Friday 10th December. Please put your country and issue within the subject line. 

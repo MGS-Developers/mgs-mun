@@ -15,12 +15,6 @@ export default function Home() {
                         We look forward to welcoming you all to our conference on the <strong>11th of December</strong>.
                     </p>
                     <p>
-                        If you have any queries, please email&nbsp;
-                        <a href="mailto:mgsmun@outlook.com">
-                            mgsmun@outlook.com
-                        </a>.
-                    </p>
-                    <p>
                         The Secretary-General for MGSMUN 2021 is Oliver Sandall and our Deputy Secretary-Generals are Euan Aspin and Zach Foster.
                         On behalf of everyone at MGS, we hope that you enjoy our conference.
                     </p>

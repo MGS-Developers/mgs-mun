@@ -16,4 +16,4 @@ Many of the individuals, groups and nations that have influenced the outcomes of
 
 [https://www.berkeleyjournalofinternationallaw.com/post/cyber-election-interference-and-the-un-charter](https://www.berkeleyjournalofinternationallaw.com/post/cyber-election-interference-and-the-un-charter )
 
-> All resolutions must be emailed to carolanh-y15@mgs.org before 23.59 on Friday 10th December. Please put your country and issue within the subject line.
+> All resolutions must be emailed to hill-aspinallp-y16@mgs.org before 23:59 on Friday 10th December. Please put your country and issue within the subject line.
