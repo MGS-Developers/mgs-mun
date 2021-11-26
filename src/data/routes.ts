@@ -339,12 +339,6 @@ export const routes: NavbarRouteItem[] = [
         ]
     },
     {
-        label: 'Charity',
-        href: '/charity',
-        component: MarkdownPage,
-        source: 'charity'
-    },
-    {
         label: 'Gallery',
         href: '/gallery',
         component: Gallery,

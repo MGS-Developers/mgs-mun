@@ -24,12 +24,8 @@
 <br/>Head of Tech
 <br/>[kerecsenyip-y15@mgs.org](mailto:kerecsenyip-y15@mgs.org)
 
-**Henry Carolan**
-<br/>Co-Head of Secretariat
-<br/>[carolanh-y15@mgs.org](mailto:carolanh-y15@mgs.org)
-
 **Marc Kadir**
-<br/>Co-Head of Secretariat
+<br/>Head of Secretariat
 <br/>[kadirm-y15@mgs.org](mailto:kadirm-y15@mgs.org)
 
 **Imran Mohammed**

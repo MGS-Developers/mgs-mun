@@ -17,6 +17,10 @@ export default function Countdown() {
         }
     }, []);
 
+    if (duration.toMillis() < 0) {
+        return <></>
+    }
+
     return <div className={styles.container}>
         <div className={styles.value}>
             <p className={styles.count}>{duration.days}</p>
