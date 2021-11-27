@@ -1,7 +1,9 @@
 # The Issue of Freedom of Expression on the Internet
-"Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers." – Article 19 of the UDHR
+> Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers.
 
-That does not mean that you can say what you want, when you want, and how you want. In some specific circumstances, free speech and freedom of expression can be restricted. Amnesty International UK clearly defines it:
+— Article 19 of the UDHR
+
+That does not mean that you can say what you want, when you want, and how you want. In some specific circumstances, free speech and freedom of expression can be restricted. Amnesty International (UK) clearly defines the extent to which such restrictions might be required:
 
 > Governments have an obligation to prohibit hate speech and incitement. And restrictions can also be justified if they protect specific public interest or the rights and reputations of others.
 
@@ -13,16 +15,19 @@ Moreover, UNESCO, on the issue of whether freedom of expression is applicable on
 
 > The principle of freedom of expression and human rights must apply not only to traditional media but also to the Internet and all types of emerging media platforms, which will contribute to development, democracy and dialogue.
 
-The internet is, to many, the most democratic and ‘free’ creation to date. How can we go about keeping it free and democratic, whilst also keeping it safe and protecting human rights? Is it even worth the UN's time to try and monitor everything? Whose responsibility is it to keep the internet free of hate speech? Perhaps the issue is less of what is right and wrong, and more about how we can most effectively go about protecting peoples' human rights on the internet.
+The internet is, to many, the most democratic and 'free' creation to date. How can we go about keeping it free and democratic, whilst also keeping it safe and protecting human rights? Is it even worth the UN's time to try and monitor vast swathes of the internet? Whose responsibility is it to keep the internet free of hate speech? Perhaps the issue is less of what is right and wrong, and more about how we can most effectively go about protecting peoples' human rights on the internet.
 
-Another aspect of this issue is that of censorship. Again, the issue of the responsibility of the interpretation and the upkeep of Article 19 is key in this debate. Being such a broad and multifaceted issue, debate on this issue can be fun, engaging, and relevant to us as young people who have experienced both the benefits and downsides of growing up in an almost fully developed digital, globally connected world.
+Another aspect of this issue is that of censorship. Again, the issue of the responsibility of the interpretation and the upkeep of Article 19 is key in this debate, as well as working through how we balance this concern with that of fake news, hate and extremist speech being allowed to spread unchecked across the web. Being such a broad and multifaceted issue, debate on this issue can be fun, engaging, and relevant to us as young people who have experienced both the benefits and downsides of growing up in an almost fully developed digital, globally connected world.
 
 ## Points to Consider:
 
-- How can the UN best protect peoples’ human rights online?;
-- How clear is Article 19 of the UDHR?;
-- How can we best mitigate censorship online?;
-- How can we best deal with those who violate others' human rights by inciting violence or hate speech through their words online?
+- How can the UN best protect peoples’ human rights online?
+
+- How clear is Article 19 of the UDHR?
+
+- How can we best mitigate censorship online, whilst still preventing fake news, hate and extremist thought from spreading to a wide audience?
+
+- How can we best deal with those who violate others’ human rights by inciting violence or hate speech through their words online?
 
 ## Further Research:
 
