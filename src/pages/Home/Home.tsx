@@ -13,15 +13,28 @@ export default function Home() {
                     </h1>
                     <p>
                         We look forward to welcoming you all to our conference on the <strong>11th of December</strong>.
+                        This year's theme is <strong>Tackling Political Apathy</strong>.
                     </p>
                     <p>
                         The Secretary-General for MGSMUN 2021 is Oliver Sandall and our Deputy Secretary-Generals are Euan Aspin and Zach Foster.
-                        On behalf of everyone at MGS, we hope that you enjoy our conference.
+                        On behalf of everyone at MGS, we hope that you enjoy our conference!
                     </p>
-
                     <p>
-                        {/* TODO: reconsider this theme name */}
-                        The theme of this year's conference is <strong>Tackling Political Apathy</strong>.
+                        To stay updated, follow us on&nbsp;
+                        <a
+                            href='https://www.instagram.com/mgsmun'
+                            target='_blank'
+                            rel='noreferrer'
+                        >
+                            Instagram
+                        </a> and&nbsp;
+                        <a
+                            href='https://twitter.com/mgsmun2021'
+                            target='_blank'
+                            rel='noreferrer'
+                        >
+                            Twitter
+                        </a>.
                     </p>
 
                     <Countdown />
