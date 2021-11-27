@@ -16,10 +16,6 @@ export default function Home() {
                         This year's theme is <strong>Tackling Political Apathy</strong>.
                     </p>
                     <p>
-                        The Secretary-General for MGSMUN 2021 is Oliver Sandall and our Deputy Secretary-Generals are Euan Aspin and Zach Foster.
-                        On behalf of everyone at MGS, we hope that you enjoy our conference!
-                    </p>
-                    <p>
                         To stay updated, follow us on&nbsp;
                         <a
                             href='https://www.instagram.com/mgsmun'
@@ -34,7 +30,7 @@ export default function Home() {
                             rel='noreferrer'
                         >
                             Twitter
-                        </a>.
+                        </a>. On behalf of everyone at MGS, we hope that you enjoy our conference!
                     </p>
 
                     <Countdown />

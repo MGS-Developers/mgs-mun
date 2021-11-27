@@ -1,6 +1,8 @@
 import styles from './Footer.module.scss';
 import { Link, useLocation } from 'react-router-dom'
 import { useMemo } from 'react'
+import {ReactComponent as Instagram} from '../../assets/instagram.svg'
+import {ReactComponent as Twitter} from '../../assets/twitter.svg'
 
 export default function Footer() {
     const location = useLocation();
@@ -19,6 +21,25 @@ export default function Footer() {
 
     if (!show) return <></>
     return <footer className={styles.footer}>
+        <p className={styles.socials}>
+            <a
+                href='https://www.instagram.com/mgsmun'
+                target='_blank'
+                rel='noreferrer'
+            >
+                <Instagram />
+                @mgsmun
+            </a>
+            <a
+                href='https://twitter.com/mgsmun2021'
+                target='_blank'
+                rel='noreferrer'
+            >
+                <Twitter />
+                @mgsmun2021
+            </a>
+        </p>
+
         <p>
             <a
                 href='https://github.com/palkerecsenyi/mgs-mun'
