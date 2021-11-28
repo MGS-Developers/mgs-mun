@@ -12,7 +12,7 @@ Please note that this schedule is subject to change.
 - **14:00–14:05** Announce Crisis
 - **14:05–14:25** Break
 - **14:25–15:30** Crisis Prep in Committee
-- **15:40–16:50** General Assembly
+- **15:40–16:50** Forum on Human Rights
 
 ## Special Committee on Technology, DISEC, EnviroSci Committee
 - **9:50–12:20** Committees in Session
@@ -20,7 +20,7 @@ Please note that this schedule is subject to change.
 - **12:50–14:00** Committees in Session
 - **14:00–14:05** Announce Crisis
 - **14:15–14:25** Break
-- **14:25–15:30** Crisis Prep in Commitee
+- **14:25–15:30** Crisis Prep in Committee
 - **15:40–16:50** Forum on Technology
 
 ## Security Council, Political Committee, EcoFin Committee
@@ -30,7 +30,7 @@ Please note that this schedule is subject to change.
 - **14:00–14:05** Announce Crisis
 - **14:05–14:25** Break
 - **14:25–15:30** Crisis Prep in Committee
-- **15:40–16:50** Forum on Human Rights
+- **15:40–16:50** General Assembly
 
 ---
 - **17:00–17:30** Closing Ceremony + Presentation of Awards
