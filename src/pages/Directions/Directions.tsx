@@ -43,7 +43,7 @@ export default function Directions() {
                 <p>
                     <strong>Train:</strong> closest station is&nbsp;
                     <a
-                        href='https://www.northernrailway.co.uk/stations/LVM'
+                        href='https://tfgm.com/public-transport/train/stations/levenshulme-rail'
                         target='_blank'
                         rel='noreferrer'
                         className={styles.link}
@@ -52,14 +52,22 @@ export default function Directions() {
                     </a>
                     . Frequent, direct bus connections from&nbsp;
                     <a
-                        href='https://www.northernrailway.co.uk/stations/MAN'
+                        href='https://tfgm.com/public-transport/train/stations/manchester-piccadilly-rail'
                         target='_blank'
                         rel='noreferrer'
                         className={styles.link}
                     >
                         Manchester Piccadilly
                     </a>
-                    &nbsp;also available.
+                    &nbsp;and&nbsp;
+                    <a
+                        href='https://tfgm.com/public-transport/train/stations/manchester-oxford-road-rail/'
+                        target='_blank'
+                        rel='noreferrer'
+                        className={styles.link}
+                    >
+                        Manchester Oxford Road
+                    </a> also available.
                 </p>
                 <p>
                     <strong>Metrolink:</strong> closest station is&nbsp;
@@ -73,12 +81,27 @@ export default function Directions() {
                     </a>
                     , with frequent bus connections available.
                 </p>
+                <p>
+                    <strong>Bike:</strong> Wilmslow Road/Oxford Road have physically-separated bike lanes on long sections.
+                    TfGM also offers&nbsp;
+                    <a
+                        href='https://activetravel.tfgm.com/bee-network-cycle-hire/'
+                        target='_blank'
+                        rel='noreferrer'
+                        className={styles.link}
+                    >
+                        cheap bike rental
+                    </a>, with a docking station at the western end of Old
+                    Hall Lane. Lots of secure bike racks are available on-site — just ask a Parking Warden for directions.
+                </p>
 
                 <h2>
                     Parking
                 </h2>
                 <p>
-                    More information will be posted soon.
+                    Parking will be provided on-site. Please use the Old Hall Lane entrance (the Telfer Road entrance will be closed)
+                    and follow signs, as well as instructions from our Parking Wardens. Please keep in mind that parking is limited,
+                    so consider using one of the many convenient public transport options if possible.
                 </p>
 
                 <h1>
