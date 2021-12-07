@@ -1,0 +1,14 @@
+@import "src/styles/importables";
+
+.container {
+  @include fluid-container;
+
+  h1, h2, p {
+    @include poppins;
+  }
+
+  .video {
+    width: 100%;
+
+  }
+}

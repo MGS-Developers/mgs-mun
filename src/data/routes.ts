@@ -12,6 +12,7 @@ import {
     Security,
     Speccom,
 } from './committees'
+import Crisis from '../pages/Crisis/Crisis'
 
 const Home = lazy(() => import('../pages/Home/Home'));
 const Gallery = lazy(() => import('../pages/Gallery/Gallery'));
@@ -278,7 +279,7 @@ export const routes: NavbarRouteItem[] = [
     {
         label: 'Crisis',
         href: '/crisis',
-        component: MarkdownPage,
+        component: Crisis,
         source: 'crisis',
     },
     {
