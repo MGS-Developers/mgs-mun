@@ -20,13 +20,9 @@
 <br/>[barclayn-y16@mgs.org](mailto:barclayn-y16@mgs.org)
 
 **Pal Kerecsenyi**
-<br/>Head of Tech
+<br/>Head of Tech & Design
 <br/>[kerecsenyip-y15@mgs.org](mailto:kerecsenyip-y15@mgs.org)
 
-**Marc Kadir**
-<br/>Head of Secretariat
-<br/>[kadirm-y15@mgs.org](mailto:kadirm-y15@mgs.org)
-
-**Imran Mohammed**
-<br/>Head of Charity
-<br/>[mohammedi-y15@mgs.org](mailto:mohammedi-y15@mgs.org)
+**Bazil Shahzad**
+<br/>Head of Press
+<br/>[shahzadb-y15@mgs.org](mailto:shahzadb-y15@mgs.org)

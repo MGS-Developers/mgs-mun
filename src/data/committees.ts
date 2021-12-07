@@ -71,7 +71,7 @@ export const EcoFin: CommitteeConfig = {
     color: "#0D9807",
     beginner: false,
     headChairs: ["Marc Kadir"],
-    guestChairs: ["Olivia Hall", /*"Ronan McAuliffe"*/],
+    guestChairs: ["Olivia Hall", "Ronan McAuliffe"],
     issues: [
         "The Issue of Economic Recovery Post-COVID",
         "The Issue of Global Pensions and Old-Age Income Poverty",
@@ -84,7 +84,7 @@ export const DISEC: CommitteeConfig = {
     color: "#F1A10D",
     beginner: false,
     headChairs: ["Hassan Tahir", "Luke Chadwick"],
-    guestChairs: [/*"Hannah Hahimi"*/],
+    guestChairs: ["Hannah Hashimi"],
     issues: [
         "The Issue of Nuclear Submarine Treaties",
         "The Issue of Drones in Afghan Airspace",
@@ -97,7 +97,7 @@ export const HealthAndSocial: CommitteeConfig = {
     color: "#FF4242",
     beginner: true,
     headChairs: ["Imran Mohammed"],
-    guestChairs: [/*"Evie Lomas",*/ "Ananya Ruia"],
+    guestChairs: ["Evie Lomas", "Ananya Ruia"],
     issues: [
         "The Issue of Inaccessibility to Medicines",
         "The Issue of Creating an International Pandemic Treaty",
