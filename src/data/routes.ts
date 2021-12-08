@@ -12,13 +12,13 @@ import {
     Security,
     Speccom,
 } from './committees'
-import Crisis from '../pages/Crisis/Crisis'
 
 const Home = lazy(() => import('../pages/Home/Home'));
 const Gallery = lazy(() => import('../pages/Gallery/Gallery'));
 const MarkdownPage = lazy(() => import('../pages/Markdown/MarkdownPage'));
 const Directions = lazy(() => import('../pages/Directions/Directions'));
 const CommitteeList = lazy(() => import('../pages/CommitteeList/CommitteeList'));
+const Crisis = lazy(() => import('../pages/Crisis/Crisis'));
 
 export interface RouteProps {
     component?: FunctionComponent<{
