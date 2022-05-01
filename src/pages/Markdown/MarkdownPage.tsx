@@ -63,8 +63,7 @@ export default function MarkdownPage(
     const renderedMarkdown = useMemo(() => {
         if (markdown) {
             return <ReactMarkdown
-                rehypePlugins={[rehypeRaw]}
-                plugins={[remarkFootnotes]}
+                rehypePlugins={[rehypeRaw, remarkFootnotes]}
             >
                 {markdown}
             </ReactMarkdown>
