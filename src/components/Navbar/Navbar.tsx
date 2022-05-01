@@ -47,7 +47,7 @@ export default function Navbar(
             />
             <h1 className={styles.title}>
                 <span className={styles.MGSMUN}>MGSMUN</span>
-                <span className={styles.year}>2021</span>
+                <span className={styles.year}>2022</span>
             </h1>
         </Link>
 

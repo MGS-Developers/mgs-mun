@@ -9,11 +9,12 @@ export default function Home() {
             <Row verticalCenter>
                 <Column width={7}>
                     <h1>
-                        Welcome to MGSMUN 2021!
+                        Welcome to MGSMUN 2022!
                     </h1>
                     <p>
-                        We look forward to welcoming you all to our conference on the <strong>11th of December</strong>.
-                        This year's theme is <strong>Tackling Political Apathy</strong>.
+                        We look forward to welcoming you all to our conference in <strong>December</strong>. Currently,
+                        all information on this website refers to MGSMUN <strong>2021</strong> — we'll start releasing
+                        new details for 2022 as soon as possible.
                     </p>
                     <p>
                         To stay updated, follow us on&nbsp;
@@ -30,7 +31,7 @@ export default function Home() {
                             rel='noreferrer'
                         >
                             Twitter
-                        </a>. On behalf of everyone at MGS, we hope that you enjoy our conference!
+                        </a>.
                     </p>
 
                     <Countdown />

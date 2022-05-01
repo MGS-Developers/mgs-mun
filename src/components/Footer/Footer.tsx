@@ -41,17 +41,10 @@ export default function Footer() {
         </p>
 
         <p>
-            <a
-                href='https://github.com/palkerecsenyi/mgs-mun'
-                target='_blank'
-                rel='noreferrer'
-            >
-                Website
-            </a>
-            &nbsp;by Pal Kerecsenyi (kerecsenyip-y15@mgs.org)
-        </p>
-        <p>
-            &copy; Pal Kerecsenyi {copyrightYear} under MIT license, various&nbsp;
+            &copy; Pal Kerecsenyi {copyrightYear}&nbsp;
+            <a href='https://github.com/MGS-Developers/mgs-mun' target='_blank' rel='noreferrer'>
+                under MIT license
+            </a>, various&nbsp;
             <Link to='/info/media'>
                 artwork licenses
             </Link>
